@@ -155,10 +155,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T14:05:01Z",
+            "last_commit": "2026-08-14T22:14:57Z",
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13012
+            "stars": 13014
           }
         },
         {
@@ -353,7 +353,7 @@
             "last_commit": "2026-07-25T01:37:24Z",
             "owner": "looplab",
             "repo": "eventhorizon",
-            "stars": 1672
+            "stars": 1673
           }
         },
         {
@@ -629,7 +629,7 @@
             "last_commit": "2024-08-15T15:29:18Z",
             "owner": "krisleech",
             "repo": "wisper",
-            "stars": 3331
+            "stars": 3332
           }
         },
         {
@@ -1023,7 +1023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:56:15.292Z",
+    "last_updated": "2026-08-15T02:43:46.500Z",
     "original_repository": "mindreframer/awesome_cqrs",
     "original_repository_sha": "5f50aa3139fc3d334e016681caa85fb57bf048a1",
     "enhanced_repository": "enhansome/enhansome_cqrs",

@@ -131,7 +131,7 @@
 
 ### Tools
 
-* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,012 | 🐛 125 | 🌐 Java | 📅 2026-08-13
+* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,014 | 🐛 119 | 🌐 Java | 📅 2026-08-14
 * [GitHub - Flipkart/aesop: A keen Observer of change](https://github.com/Flipkart/aesop) ⭐ 24 | 🐛 13 | 🌐 Java | 📅 2023-12-17
 * [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2017-04-12
 
@@ -155,7 +155,7 @@
 
 ### Golang
 
-* [GitHub - looplab/eventhorizon: CQRS/ES toolkit for Go](https://github.com/looplab/eventhorizon) ⭐ 1,672 | 🐛 44 | 🌐 Go | 📅 2026-07-25
+* [GitHub - looplab/eventhorizon: CQRS/ES toolkit for Go](https://github.com/looplab/eventhorizon) ⭐ 1,673 | 🐛 44 | 🌐 Go | 📅 2026-07-25
 * [hellofresh/goengine: Engine provides you all the capabilities to build an Event sourced application in go](https://github.com/hellofresh/goengine) ⭐ 129 | 🐛 3 | 🌐 Go | 📅 2026-07-24
 * [mcveat/event-sourcing-cqrs: Example of Event Sourcing and CQRS in golang](https://github.com/mcveat/event-sourcing-cqrs) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2016-02-05
 * [GitHub - eduncan911/es: Event-sourcing and microservices infrastructure with specs framework for GoLang](https://github.com/eduncan911/es) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2015-05-26
@@ -186,7 +186,7 @@
 
 ### Ruby
 
-* [krisleech/wisper: A micro library providing Ruby objects with Publish-Subscribe capabilities](https://github.com/krisleech/wisper) ⭐ 3,331 | 🐛 3 | 🌐 Ruby | 📅 2024-08-15
+* [krisleech/wisper: A micro library providing Ruby objects with Publish-Subscribe capabilities](https://github.com/krisleech/wisper) ⭐ 3,332 | 🐛 3 | 🌐 Ruby | 📅 2024-08-15
 * [zilverline/sequent: CQRS & event sourcing framework for Ruby](https://github.com/zilverline/sequent) ⭐ 559 | 🐛 2 | 🌐 Ruby | 📅 2026-08-06
 * [GitHub - cavalle/banksimplistic: Exploring CQRS, Event Sourcing and DDD with Ruby](https://github.com/cavalle/banksimplistic) ⭐ 319 | 🐛 1 | 🌐 Ruby | 📅 2022-06-17
 * [alexaitken/synapse: A versatile CQRS and event sourcing framework for Ruby](https://github.com/alexaitken/synapse) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2014-02-03
@@ -250,4 +250,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
