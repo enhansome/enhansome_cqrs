@@ -23,7 +23,7 @@
 
 ### Other link collections
 
-* [valentjedi/ddd-dynamic: Domain Driven Design in Python, Ruby and other dynamic languages resources](https://github.com/valentjedi/ddd-dynamic) ⭐ 1,401 | 🐛 3 | 📅 2023-06-08
+* [valentjedi/ddd-dynamic: Domain Driven Design in Python, Ruby and other dynamic languages resources](https://github.com/valentjedi/ddd-dynamic) ⭐ 1,400 | 🐛 3 | 📅 2023-06-08
 * [A curated list of awesome CQRS and Event Sourcing things](https://github.com/leandrocp/awesome-cqrs-event-sourcing) ⭐ 435 | 🐛 0 | 📅 2026-07-13
 * [GitHub - leandrocp/awesome-cqrs-event-sourcing: A curated list of awesome CQRS and Event Sourcing things](https://github.com/leandrocp/awesome-cqrs-event-sourcing) ⭐ 435 | 🐛 0 | 📅 2026-07-13
 * [mlomnicki/ddd-resources: ](https://github.com/mlomnicki/ddd-resources) ⭐ 29 | 🐛 0 | 📅 2016-08-04
@@ -131,7 +131,7 @@
 
 ### Tools
 
-* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,017 | 🐛 120 | 🌐 Java | 📅 2026-08-15
+* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,019 | 🐛 121 | 🌐 Java | 📅 2026-08-15
 * [GitHub - Flipkart/aesop: A keen Observer of change](https://github.com/Flipkart/aesop) ⭐ 24 | 🐛 13 | 🌐 Java | 📅 2023-12-17
 * [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2017-04-12
 
@@ -181,7 +181,7 @@
 
 ### Python
 
-* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,468 | 🐛 82 | 🌐 C# | 📅 2026-08-09
+* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,468 | 🐛 82 | 🌐 C# | 📅 2026-08-16
 * [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,681 | 🐛 4 | 🌐 Python | 📅 2026-08-16
 
 ### Ruby
@@ -205,7 +205,7 @@
 
 ### Java
 
-* [orbit/orbit - Concepts: Event Sourced State](https://github.com/orbit/orbit/wiki/Concepts%3A-Event-Sourced-State) ⭐ 1,726 | 🐛 4 | 🌐 Kotlin | 📅 2021-06-15
+* [orbit/orbit - Concepts: Event Sourced State](https://github.com/orbit/orbit/wiki/Concepts%3A-Event-Sourced-State) ⭐ 1,725 | 🐛 4 | 🌐 Kotlin | 📅 2021-06-15
 * [GitHub - opencredo/concursus: Concursus is a Java 8 framework for building applications that use CQRS and event sourcing patterns, with a Cassandra event log implementation.](https://github.com/opencredo/concursus) ⚠️ Archived
 * [fredgeorge/microservice\_workshop: Material (setup, sample services, etc) for Booster 2014 MicroService workshop](https://github.com/fredgeorge/microservice_workshop) ⭐ 5 | 🐛 0 | 📅 2022-09-28
 
@@ -231,7 +231,7 @@
 
 ### C-Sharp
 
-* [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/) ⭐ 2,564 | 🐛 13 | 🌐 C# | 📅 2026-07-31
+* [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/) ⭐ 2,565 | 🐛 13 | 🌐 C# | 📅 2026-07-31
 * [GitHub - SneakyPeet/EasyEventSourcing: A Simple Event Sourcing Example Application](https://github.com/SneakyPeet/EasyEventSourcing) ⭐ 231 | 🐛 3 | 🌐 C# | 📅 2020-09-05
 * [GitHub - Elders/Cronus: Cronus is a lightweight framework for dispatching and receiving messages between microservices with DDD/CQRS in mind](https://github.com/Elders/Cronus) ⭐ 174 | 🐛 50 | 🌐 C# | 📅 2026-05-11
 * [GitHub - tangxuehua/Conference: A conference example to explain how to use enode to develop ddd+cqrs+event souricng application.](https://github.com/tangxuehua/Conference) ⭐ 115 | 🐛 15 | 🌐 C# | 📅 2022-12-08
@@ -250,4 +250,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

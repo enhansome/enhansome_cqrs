@@ -14,7 +14,7 @@
             "last_commit": "2023-06-08T16:56:38Z",
             "owner": "valignatev",
             "repo": "ddd-dynamic",
-            "stars": 1401
+            "stars": 1400
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2026-08-15T16:07:46Z",
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13017
+            "stars": 13019
           }
         },
         {
@@ -463,7 +463,7 @@
             "last_commit": "2026-08-09T19:20:52Z",
             "owner": "broadway",
             "repo": "broadway",
-            "stars": 1510
+            "stars": 1509
           }
         },
         {
@@ -592,7 +592,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-09T16:54:32Z",
+            "last_commit": "2026-08-16T16:55:46Z",
             "owner": "BrighterCommand",
             "repo": "Brighter",
             "stars": 2468
@@ -728,7 +728,7 @@
             "last_commit": "2021-06-15T14:48:30Z",
             "owner": "orbit",
             "repo": "orbit",
-            "stars": 1726
+            "stars": 1725
           }
         },
         {
@@ -917,7 +917,7 @@
             "last_commit": "2026-07-31T10:37:33Z",
             "owner": "eventflow",
             "repo": "EventFlow",
-            "stars": 2564
+            "stars": 2565
           }
         },
         {
@@ -1023,7 +1023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:52:15.636Z",
+    "last_updated": "2026-08-17T02:52:37.713Z",
     "original_repository": "mindreframer/awesome_cqrs",
     "original_repository_sha": "5f50aa3139fc3d334e016681caa85fb57bf048a1",
     "enhanced_repository": "enhansome/enhansome_cqrs",
