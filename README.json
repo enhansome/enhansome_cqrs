@@ -155,10 +155,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T16:07:46Z",
+            "last_commit": "2026-08-17T21:57:10Z",
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13019
+            "stars": 13022
           }
         },
         {
@@ -353,7 +353,7 @@
             "last_commit": "2026-07-25T01:37:24Z",
             "owner": "looplab",
             "repo": "eventhorizon",
-            "stars": 1674
+            "stars": 1675
           }
         },
         {
@@ -364,7 +364,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-07-24T10:32:45Z",
+            "last_commit": "2026-08-17T10:33:07Z",
             "owner": "hellofresh",
             "repo": "goengine",
             "stars": 129
@@ -609,7 +609,7 @@
             "last_commit": "2026-08-16T01:15:28Z",
             "owner": "pyeventsourcing",
             "repo": "eventsourcing",
-            "stars": 1681
+            "stars": 1682
           }
         }
       ],
@@ -1023,7 +1023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:52:37.713Z",
+    "last_updated": "2026-08-18T02:47:54.717Z",
     "original_repository": "mindreframer/awesome_cqrs",
     "original_repository_sha": "5f50aa3139fc3d334e016681caa85fb57bf048a1",
     "enhanced_repository": "enhansome/enhansome_cqrs",
