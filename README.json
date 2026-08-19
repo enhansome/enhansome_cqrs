@@ -28,7 +28,7 @@
             "last_commit": "2026-07-13T14:14:50Z",
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 435
+            "stars": 436
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-13T14:14:50Z",
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 435
+            "stars": 436
           }
         },
         {
@@ -121,7 +121,7 @@
           "repo_info": {
             "archived": false,
             "language": "MDX",
-            "last_commit": "2026-08-13T11:37:22Z",
+            "last_commit": "2026-08-18T12:26:00Z",
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115
@@ -155,7 +155,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T21:57:10Z",
+            "last_commit": "2026-08-18T21:36:47Z",
             "owner": "debezium",
             "repo": "debezium",
             "stars": 13022
@@ -629,7 +629,7 @@
             "last_commit": "2024-08-15T15:29:18Z",
             "owner": "krisleech",
             "repo": "wisper",
-            "stars": 3332
+            "stars": 3333
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2022-06-17T22:10:44Z",
             "owner": "cavalle",
             "repo": "banksimplistic",
-            "stars": 319
+            "stars": 320
           }
         },
         {
@@ -1023,7 +1023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:47:54.717Z",
+    "last_updated": "2026-08-19T02:49:25.890Z",
     "original_repository": "mindreframer/awesome_cqrs",
     "original_repository_sha": "5f50aa3139fc3d334e016681caa85fb57bf048a1",
     "enhanced_repository": "enhansome/enhansome_cqrs",
