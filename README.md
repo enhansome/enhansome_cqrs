@@ -125,13 +125,13 @@
 ### Good documentation
 
 * [prooph/event-store · Docs (DDD/CQRS/ES concepts)](https://github.com/prooph/event-store/tree/master/docs) ⭐ 548 | 🐛 1 | 🌐 PHP | 📅 2026-05-03
-* <https://github.com/ravendb/docs/blob/master/Articles/Raven.Documentation.Articles/articles/cqrs-and-event-sourcing-made-easy-with-ravendb.markdown> ⭐ 115 | 🐛 18 | 🌐 MDX | 📅 2026-08-19
+* <https://github.com/ravendb/docs/blob/master/Articles/Raven.Documentation.Articles/articles/cqrs-and-event-sourcing-made-easy-with-ravendb.markdown> ⭐ 115 | 🐛 13 | 🌐 MDX | 📅 2026-08-20
 * [GitHub - slashdotdash/cqrs-journey-pdf: CQRS Journey Guide converted to PDF for eBook reading.](https://github.com/slashdotdash/cqrs-journey-pdf) ⭐ 10 | 🐛 0 | 🌐 Ruby | 📅 2012-08-16
 * [proophessor - Exploring prooph components](http://getprooph.org/)
 
 ### Tools
 
-* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,023 | 🐛 105 | 🌐 Java | 📅 2026-08-19
+* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,031 | 🐛 101 | 🌐 Java | 📅 2026-08-21
 * [GitHub - Flipkart/aesop: A keen Observer of change](https://github.com/Flipkart/aesop) ⭐ 24 | 🐛 13 | 🌐 Java | 📅 2023-12-17
 * [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2017-04-12
 
@@ -156,7 +156,7 @@
 ### Golang
 
 * [GitHub - looplab/eventhorizon: CQRS/ES toolkit for Go](https://github.com/looplab/eventhorizon) ⭐ 1,676 | 🐛 45 | 🌐 Go | 📅 2026-08-19
-* [hellofresh/goengine: Engine provides you all the capabilities to build an Event sourced application in go](https://github.com/hellofresh/goengine) ⭐ 129 | 🐛 5 | 🌐 Go | 📅 2026-08-17
+* [hellofresh/goengine: Engine provides you all the capabilities to build an Event sourced application in go](https://github.com/hellofresh/goengine) ⭐ 129 | 🐛 5 | 🌐 Go | 📅 2026-08-20
 * [mcveat/event-sourcing-cqrs: Example of Event Sourcing and CQRS in golang](https://github.com/mcveat/event-sourcing-cqrs) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2016-02-05
 * [GitHub - eduncan911/es: Event-sourcing and microservices infrastructure with specs framework for GoLang](https://github.com/eduncan911/es) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2015-05-26
 * <https://medium.com/@Oskarr3/implementing-cqrs-using-kafka-and-sarama-library-in-golang-da7efa3b77fe#.7gvhtgyf8>
@@ -181,7 +181,7 @@
 
 ### Python
 
-* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,469 | 🐛 82 | 🌐 C# | 📅 2026-08-16
+* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,469 | 🐛 83 | 🌐 C# | 📅 2026-08-16
 * [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,683 | 🐛 4 | 🌐 Python | 📅 2026-08-19
 
 ### Ruby
@@ -250,4 +250,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

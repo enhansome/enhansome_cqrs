@@ -129,7 +129,7 @@
             "archived": false,
             "id": 961487,
             "language": "MDX",
-            "last_commit": "2026-08-19T12:24:16Z",
+            "last_commit": "2026-08-20T10:31:26Z",
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115
@@ -165,10 +165,10 @@
             "archived": false,
             "id": 50205233,
             "language": "Java",
-            "last_commit": "2026-08-19T20:09:05Z",
+            "last_commit": "2026-08-21T01:56:31Z",
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13023
+            "stars": 13031
           }
         },
         {
@@ -391,7 +391,7 @@
                 "archived": false,
                 "id": 72049359,
                 "language": "Go",
-                "last_commit": "2026-08-17T10:33:07Z",
+                "last_commit": "2026-08-20T10:33:40Z",
                 "owner": "hellofresh",
                 "repo": "goengine",
                 "stars": 129
@@ -1084,7 +1084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:48:42.286Z",
+    "last_updated": "2026-08-21T02:55:09.092Z",
     "original_repository": "mindreframer/awesome_cqrs",
     "original_repository_id": 73019291,
     "original_repository_sha": "5f50aa3139fc3d334e016681caa85fb57bf048a1",
