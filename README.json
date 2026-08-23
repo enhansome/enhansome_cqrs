@@ -165,10 +165,10 @@
             "archived": false,
             "id": 50205233,
             "language": "Java",
-            "last_commit": "2026-08-21T13:10:11Z",
+            "last_commit": "2026-08-22T17:18:05Z",
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13031
+            "stars": 13037
           }
         },
         {
@@ -1084,7 +1084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:45:49.692Z",
+    "last_updated": "2026-08-23T02:54:29.990Z",
     "original_repository": "mindreframer/awesome_cqrs",
     "original_repository_id": 73019291,
     "original_repository_sha": "5f50aa3139fc3d334e016681caa85fb57bf048a1",
