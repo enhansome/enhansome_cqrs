@@ -165,10 +165,10 @@
             "archived": false,
             "id": 50205233,
             "language": "Java",
-            "last_commit": "2026-08-22T17:18:05Z",
+            "last_commit": "2026-08-23T17:26:00Z",
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13037
+            "stars": 13040
           }
         },
         {
@@ -637,7 +637,7 @@
                 "archived": false,
                 "id": 1223855,
                 "language": "C#",
-                "last_commit": "2026-08-16T16:55:46Z",
+                "last_commit": "2026-08-23T16:40:07Z",
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2469
@@ -652,7 +652,7 @@
                 "archived": false,
                 "id": 41365202,
                 "language": "Python",
-                "last_commit": "2026-08-19T15:39:45Z",
+                "last_commit": "2026-08-23T11:41:46Z",
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
                 "stars": 1683
@@ -1084,7 +1084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:54:29.990Z",
+    "last_updated": "2026-08-24T02:55:30.243Z",
     "original_repository": "mindreframer/awesome_cqrs",
     "original_repository_id": 73019291,
     "original_repository_sha": "5f50aa3139fc3d334e016681caa85fb57bf048a1",
