@@ -7,18 +7,18 @@
 
 ### Discussions:
 
-* [DDD, Event Sourcing, and CQRS Tutorial | Hacker News](https://news.ycombinator.com/item?id=10189031)
 * [Which Message / Command / Event Bus to use · Issue #12 · webdevilopers](https://github.com/webdevilopers/php-ddd/issues/12) ⭐ 198 | 🐛 63 | 🌐 PHP | 📅 2023-04-17
+* [DDD, Event Sourcing, and CQRS Tutorial | Hacker News](https://news.ycombinator.com/item?id=10189031)
 * [CQRS Examples and Screencasts - stackoverflow](http://stackoverflow.com/questions/5043513/cqrs-examples-and-screencasts)
 
 ### Slides
 
+* <https://github.com/Ookami86/event-sourcing-in-practice> ⚠️ Archived
 * [DDDEurope 2018 - Event Sourcing After Launch (2018/02)](https://speakerdeck.com/overeemm/dddeurope-2018-event-sourcing-after-launch)
 * [TOTAL RECALL - The application that never forgets - 2018/01](https://speakerdeck.com/hollodotme/total-recall-the-application-that-never-forgets-1)
 * [CQRS & Event Sourcing in the wild (Scotla](https://speakerdeck.com/mrook/cqrs-and-event-sourcing-in-the-wild-scotlandphp-2016?slide=54)
 * [Introduction to CQRS / ES with Rails – Mirosław Pragłowski](http://praglowski.com/presentations/cqrses/drug/#/7)
 * [CQRS & EVENTSOURCING DISCOVERY - Workshop](http://devlyon.fr/mixter/)
-* <https://github.com/Ookami86/event-sourcing-in-practice> ⚠️ Archived
 * <http://prolic.github.io/cqrs-event-sourcing-talk/#/39> - CQRS & Event Sourcing
 
 ### Other link collections
@@ -131,7 +131,7 @@
 
 ### Tools
 
-* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,040 | 🐛 100 | 🌐 Java | 📅 2026-08-23
+* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,042 | 🐛 97 | 🌐 Java | 📅 2026-08-24
 * [GitHub - Flipkart/aesop: A keen Observer of change](https://github.com/Flipkart/aesop) ⭐ 24 | 🐛 13 | 🌐 Java | 📅 2023-12-17
 * [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2017-04-12
 
@@ -181,8 +181,8 @@
 
 ### Python
 
-* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,469 | 🐛 85 | 🌐 C# | 📅 2026-08-23
-* [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,683 | 🐛 4 | 🌐 Python | 📅 2026-08-23
+* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,469 | 🐛 88 | 🌐 C# | 📅 2026-08-24
+* [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,684 | 🐛 4 | 🌐 Python | 📅 2026-08-23
 
 ### Ruby
 

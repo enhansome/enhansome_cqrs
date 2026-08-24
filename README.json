@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Which Message / Command / Event Bus to use · Issue #12 · webdevilopers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56482646,
+            "language": "PHP",
+            "last_commit": "2023-04-17T04:21:18Z",
+            "owner": "webdevilopers",
+            "repo": "php-ddd",
+            "stars": 198
+          }
+        }
+      ],
+      "title": "Discussions:"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Ookami86/event-sourcing-in-practice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 15184144,
+            "language": "CSS",
+            "last_commit": "2019-03-15T17:04:52Z",
+            "owner": "johanneswseitz",
+            "repo": "event-sourcing-in-practice",
+            "stars": 247
+          }
+        }
+      ],
+      "title": "Slides"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "valentjedi/ddd-dynamic: Domain Driven Design in Python, Ruby and other dynamic languages resources",
           "description": null,
           "children": [],
@@ -165,10 +207,10 @@
             "archived": false,
             "id": 50205233,
             "language": "Java",
-            "last_commit": "2026-08-23T17:26:00Z",
+            "last_commit": "2026-08-24T13:13:59Z",
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13040
+            "stars": 13042
           }
         },
         {
@@ -637,7 +679,7 @@
                 "archived": false,
                 "id": 1223855,
                 "language": "C#",
-                "last_commit": "2026-08-23T16:40:07Z",
+                "last_commit": "2026-08-24T08:36:16Z",
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2469
@@ -655,7 +697,7 @@
                 "last_commit": "2026-08-23T11:41:46Z",
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1683
+                "stars": 1684
               }
             }
           ],
@@ -744,6 +786,28 @@
           "description": null,
           "node_type": "group",
           "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub - meteor-space/event-sourcing:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25350715,
+                "language": "CoffeeScript",
+                "last_commit": "2016-12-15T18:11:29Z",
+                "owner": "meteor-space",
+                "repo": "event-sourcing",
+                "stars": 63
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Meteor"
         },
         {
           "children": [
@@ -1084,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:55:30.243Z",
+    "last_updated": "2026-08-24T14:44:54.718Z",
     "original_repository": "mindreframer/awesome_cqrs",
     "original_repository_id": 73019291,
     "original_repository_sha": "5f50aa3139fc3d334e016681caa85fb57bf048a1",
