@@ -26,7 +26,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Ookami86/event-sourcing-in-practice",
+          "title": "johanneswseitz/event-sourcing-in-practice",
           "description": null,
           "children": [],
           "repo_info": {
@@ -113,7 +113,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Arnauld/CQRS-Ramblings/blob/master/doc/article/cqrs-article.mdown",
+          "title": "Arnauld/CQRS-Ramblings",
           "description": "-",
           "children": [],
           "repo_info": {
@@ -164,7 +164,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ravendb/docs/blob/master/Articles/Raven.Documentation.Articles/articles/cqrs-and-event-sourcing-made-easy-with-ravendb.markdown",
+          "title": "ravendb/docs",
           "description": null,
           "children": [],
           "repo_info": {
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 50205233,
             "language": "Java",
-            "last_commit": "2026-08-24T19:40:22Z",
+            "last_commit": "2026-08-25T03:55:43Z",
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13044
+            "stars": 13045
           }
         },
         {
@@ -719,7 +719,7 @@
                 "last_commit": "2024-08-15T15:29:18Z",
                 "owner": "krisleech",
                 "repo": "wisper",
-                "stars": 3332
+                "stars": 3331
               }
             },
             {
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:50:55.998Z",
+    "last_updated": "2026-08-25T06:41:05.714Z",
     "original_repository": "mindreframer/awesome_cqrs",
     "original_repository_id": 73019291,
     "original_repository_sha": "5f50aa3139fc3d334e016681caa85fb57bf048a1",
