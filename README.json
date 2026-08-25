@@ -207,10 +207,10 @@
             "archived": false,
             "id": 50205233,
             "language": "Java",
-            "last_commit": "2026-08-24T13:13:59Z",
+            "last_commit": "2026-08-24T19:40:22Z",
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13042
+            "stars": 13044
           }
         },
         {
@@ -418,7 +418,7 @@
                 "archived": false,
                 "id": 26747350,
                 "language": "Go",
-                "last_commit": "2026-08-19T03:34:53Z",
+                "last_commit": "2026-08-24T21:08:14Z",
                 "owner": "looplab",
                 "repo": "eventhorizon",
                 "stars": 1676
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:44:54.718Z",
+    "last_updated": "2026-08-25T02:50:55.998Z",
     "original_repository": "mindreframer/awesome_cqrs",
     "original_repository_id": 73019291,
     "original_repository_sha": "5f50aa3139fc3d334e016681caa85fb57bf048a1",
