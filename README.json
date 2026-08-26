@@ -207,7 +207,7 @@
             "archived": false,
             "id": 50205233,
             "language": "Java",
-            "last_commit": "2026-08-25T03:55:43Z",
+            "last_commit": "2026-08-25T15:00:04Z",
             "owner": "debezium",
             "repo": "debezium",
             "stars": 13045
@@ -679,7 +679,7 @@
                 "archived": false,
                 "id": 1223855,
                 "language": "C#",
-                "last_commit": "2026-08-24T08:36:16Z",
+                "last_commit": "2026-08-25T19:15:22Z",
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2469
@@ -734,7 +734,7 @@
                 "last_commit": "2026-08-06T11:26:33Z",
                 "owner": "zilverline",
                 "repo": "sequent",
-                "stars": 559
+                "stars": 560
               }
             },
             {
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:41:05.714Z",
+    "last_updated": "2026-08-26T02:57:07.632Z",
     "original_repository": "mindreframer/awesome_cqrs",
     "original_repository_id": 73019291,
     "original_repository_sha": "5f50aa3139fc3d334e016681caa85fb57bf048a1",
