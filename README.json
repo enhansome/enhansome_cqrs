@@ -171,7 +171,7 @@
             "archived": false,
             "id": 961487,
             "language": "MDX",
-            "last_commit": "2026-08-20T10:31:26Z",
+            "last_commit": "2026-08-27T09:42:41Z",
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 50205233,
             "language": "Java",
-            "last_commit": "2026-08-25T15:00:04Z",
+            "last_commit": "2026-08-27T05:10:23Z",
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13045
+            "stars": 13051
           }
         },
         {
@@ -679,7 +679,7 @@
                 "archived": false,
                 "id": 1223855,
                 "language": "C#",
-                "last_commit": "2026-08-25T19:15:22Z",
+                "last_commit": "2026-08-26T19:44:03Z",
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2469
@@ -825,7 +825,7 @@
                     "last_commit": "2021-06-15T14:48:30Z",
                     "owner": "orbit",
                     "repo": "orbit",
-                    "stars": 1725
+                    "stars": 1726
                   }
                 },
                 {
@@ -1025,7 +1025,7 @@
                     "last_commit": "2026-07-31T10:37:33Z",
                     "owner": "eventflow",
                     "repo": "EventFlow",
-                    "stars": 2565
+                    "stars": 2564
                   }
                 },
                 {
@@ -1148,9 +1148,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:57:07.632Z",
-    "original_repository": "mindreframer/awesome_cqrs",
-    "original_repository_id": 73019291,
+    "last_updated": "2026-08-27T12:12:03.393Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 73019291,
+      "language": null,
+      "last_commit": "2018-12-13T12:41:01Z",
+      "owner": "mindreframer",
+      "repo": "awesome_cqrs",
+      "stars": 62
+    },
     "original_repository_sha": "5f50aa3139fc3d334e016681caa85fb57bf048a1",
     "enhanced_repository": "enhansome/enhansome_cqrs",
     "enhanced_repository_description": null,
