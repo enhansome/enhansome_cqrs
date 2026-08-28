@@ -16,7 +16,8 @@
             "owner": "webdevilopers",
             "repo": "php-ddd",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         }
       ],
       "title": "Discussions:"
@@ -37,7 +38,8 @@
             "owner": "johanneswseitz",
             "repo": "event-sourcing-in-practice",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         }
       ],
       "title": "Slides"
@@ -58,7 +60,8 @@
             "owner": "valignatev",
             "repo": "ddd-dynamic",
             "stars": 1400
-          }
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         },
         {
           "node_type": "item",
@@ -88,7 +92,8 @@
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "mlomnicki",
             "repo": "ddd-resources",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         }
       ],
       "title": "Other link collections"
@@ -124,7 +130,8 @@
             "owner": "Arnauld",
             "repo": "CQRS-Ramblings",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         },
         {
           "node_type": "item",
@@ -139,7 +146,8 @@
             "owner": "Galeria-Kaufhof",
             "repo": "web-eventsourcing",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         }
       ],
       "title": "Longer articles"
@@ -160,7 +168,8 @@
             "owner": "prooph",
             "repo": "event-store",
             "stars": 548
-          }
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         },
         {
           "node_type": "item",
@@ -175,7 +184,8 @@
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         },
         {
           "node_type": "item",
@@ -190,7 +200,8 @@
             "owner": "slashdotdash",
             "repo": "cqrs-journey-pdf",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         }
       ],
       "title": "Good documentation"
@@ -207,11 +218,12 @@
             "archived": false,
             "id": 50205233,
             "language": "Java",
-            "last_commit": "2026-08-27T05:10:23Z",
+            "last_commit": "2026-08-28T12:44:04Z",
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13051
-          }
+            "stars": 13053
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         },
         {
           "node_type": "item",
@@ -226,7 +238,8 @@
             "owner": "Flipkart",
             "repo": "aesop",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         },
         {
           "node_type": "item",
@@ -241,7 +254,8 @@
             "owner": "robertreppel",
             "repo": "hist",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T13:33:24.592Z"
         }
       ],
       "title": "Tools"
@@ -264,7 +278,8 @@
                 "owner": "CrowdHailer",
                 "repo": "pachyderm",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -279,7 +294,8 @@
                 "owner": "serverboards",
                 "repo": "serverboards",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -294,7 +310,8 @@
                 "owner": "bryanhunter",
                 "repo": "cqrs-with-erlang",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -309,7 +326,8 @@
                 "owner": "andreapavoni",
                 "repo": "disco",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -329,7 +347,8 @@
                     "owner": "ericentin",
                     "repo": "gen_state_machine",
                     "stars": 313
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -344,7 +363,8 @@
                     "owner": "implicitly-awesome",
                     "repo": "exop",
                     "stars": 216
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -359,7 +379,8 @@
                     "owner": "bernardolins",
                     "repo": "fake_server",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -374,7 +395,8 @@
                     "owner": "ericmj",
                     "repo": "true_story",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -389,7 +411,8 @@
                     "owner": "work-capital",
                     "repo": "workflow",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 }
               ],
               "repo_info": {
@@ -400,7 +423,8 @@
                 "owner": "tudborg",
                 "repo": "elixir-eventstore-http-client",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             }
           ],
           "description": null,
@@ -422,7 +446,8 @@
                 "owner": "looplab",
                 "repo": "eventhorizon",
                 "stars": 1676
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -437,7 +462,8 @@
                 "owner": "hellofresh",
                 "repo": "goengine",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -452,7 +478,8 @@
                 "owner": "mcveat",
                 "repo": "event-sourcing-cqrs",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -467,7 +494,8 @@
                 "owner": "eduncan911",
                 "repo": "es",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             }
           ],
           "description": null,
@@ -489,7 +517,8 @@
                 "owner": "efacilitation",
                 "repo": "eventric",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -504,7 +533,8 @@
                 "owner": "smariussorin",
                 "repo": "Event-Sourced-Microservices",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -519,7 +549,8 @@
                 "owner": "efacilitation",
                 "repo": "eventric-testing",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             }
           ],
           "description": null,
@@ -541,7 +572,8 @@
                 "owner": "broadway",
                 "repo": "broadway",
                 "stars": 1509
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -556,7 +588,8 @@
                 "owner": "thephpleague",
                 "repo": "tactician",
                 "stars": 866
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -571,7 +604,8 @@
                 "owner": "prooph",
                 "repo": "service-bus",
                 "stars": 442
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -586,7 +620,8 @@
                 "owner": "prooph",
                 "repo": "event-sourcing",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -601,7 +636,8 @@
                 "owner": "szjani",
                 "repo": "predaddy",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -616,7 +652,8 @@
                 "owner": "hellofresh",
                 "repo": "engine",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -631,7 +668,8 @@
                 "owner": "prooph",
                 "repo": "event-store-bus-bridge",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -646,7 +684,8 @@
                 "owner": "honeybee",
                 "repo": "honeybee",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -661,7 +700,8 @@
                 "owner": "treehouselabs",
                 "repo": "event-sourcing",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             }
           ],
           "description": null,
@@ -682,8 +722,9 @@
                 "last_commit": "2026-08-26T19:44:03Z",
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2469
-              }
+                "stars": 2471
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -698,7 +739,8 @@
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
                 "stars": 1684
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             }
           ],
           "description": null,
@@ -720,7 +762,8 @@
                 "owner": "krisleech",
                 "repo": "wisper",
                 "stars": 3331
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -735,7 +778,8 @@
                 "owner": "zilverline",
                 "repo": "sequent",
                 "stars": 560
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -750,7 +794,8 @@
                 "owner": "cavalle",
                 "repo": "banksimplistic",
                 "stars": 320
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -765,7 +810,8 @@
                 "owner": "alexaitken",
                 "repo": "synapse",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             },
             {
               "node_type": "item",
@@ -780,7 +826,8 @@
                 "owner": "Papipo",
                 "repo": "event_sourcing",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             }
           ],
           "description": null,
@@ -802,7 +849,8 @@
                 "owner": "meteor-space",
                 "repo": "event-sourcing",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T13:33:24.592Z"
             }
           ],
           "description": null,
@@ -826,7 +874,8 @@
                     "owner": "orbit",
                     "repo": "orbit",
                     "stars": 1726
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -841,7 +890,8 @@
                     "owner": "opencredo",
                     "repo": "concursus",
                     "stars": 96
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -856,7 +906,8 @@
                     "owner": "fredgeorge",
                     "repo": "microservice_workshop",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 }
               ],
               "description": null,
@@ -878,7 +929,8 @@
                     "owner": "notxcain",
                     "repo": "aecor",
                     "stars": 325
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -893,7 +945,8 @@
                     "owner": "scalapenos",
                     "repo": "stamina",
                     "stars": 148
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -908,7 +961,8 @@
                     "owner": "gabehollombe",
                     "repo": "scala-bank-cqrs-es",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 }
               ],
               "description": null,
@@ -930,7 +984,8 @@
                     "owner": "capitalone",
                     "repo": "cqrs-manager-for-distributed-reactive-services",
                     "stars": 302
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -945,7 +1000,8 @@
                     "owner": "rill-event-sourcing",
                     "repo": "rill",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -960,7 +1016,8 @@
                     "owner": "rill-event-sourcing",
                     "repo": "wheel",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 }
               ],
               "description": null,
@@ -989,7 +1046,8 @@
                     "owner": "thinkbeforecoding",
                     "repo": "FsUno",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -1004,7 +1062,8 @@
                     "owner": "mastoj",
                     "repo": "LibAAS",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 }
               ],
               "description": null,
@@ -1026,7 +1085,8 @@
                     "owner": "eventflow",
                     "repo": "EventFlow",
                     "stars": 2564
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -1041,7 +1101,8 @@
                     "owner": "SneakyPeet",
                     "repo": "EasyEventSourcing",
                     "stars": 231
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -1056,7 +1117,8 @@
                     "owner": "Elders",
                     "repo": "Cronus",
                     "stars": 174
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -1071,7 +1133,8 @@
                     "owner": "tangxuehua",
                     "repo": "Conference",
                     "stars": 115
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -1086,7 +1149,8 @@
                     "owner": "corker",
                     "repo": "FluentProjections",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -1101,7 +1165,8 @@
                     "owner": "jonsequitur",
                     "repo": "Alluvial",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -1116,7 +1181,8 @@
                     "owner": "2020IP",
                     "repo": "TwentyTwenty.DomainDriven",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 },
                 {
                   "node_type": "item",
@@ -1131,7 +1197,8 @@
                     "owner": "klejeune",
                     "repo": "teclyn",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:33:24.592Z"
                 }
               ],
               "description": null,
@@ -1148,7 +1215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:03.393Z",
+    "last_updated": "2026-08-28T13:33:24.592Z",
     "original_repository_info": {
       "archived": false,
       "id": 73019291,
