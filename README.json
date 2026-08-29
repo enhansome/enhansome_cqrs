@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP Symfony Doctrine Domain-driven Design",
+            "homepage": null,
             "id": 56482646,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-04-17T04:21:18Z",
+            "open_issues": 63,
             "owner": "webdevilopers",
             "repo": "php-ddd",
-            "stars": 198
+            "stars": 198,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         }
@@ -32,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Slides for my talk \"Event Sourcing in practice\"",
+            "homepage": null,
             "id": 15184144,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2019-03-15T17:04:52Z",
+            "open_issues": 1,
             "owner": "johanneswseitz",
             "repo": "event-sourcing-in-practice",
-            "stars": 247
+            "stars": 247,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         }
@@ -54,12 +64,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Domain Driven Design in Python, Ruby and other dynamic languages resources",
+            "homepage": null,
             "id": 63489413,
             "language": null,
+            "license": null,
             "last_commit": "2023-06-08T16:56:38Z",
+            "open_issues": 3,
             "owner": "valignatev",
             "repo": "ddd-dynamic",
-            "stars": 1400
+            "stars": 1400,
+            "topics": [
+              "architecture",
+              "cleanarchitecture",
+              "ddd",
+              "domain-driven-design",
+              "php",
+              "python",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         },
@@ -70,12 +93,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome CQRS and Event Sourcing things",
+            "homepage": null,
             "id": 59113563,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-13T14:14:50Z",
+            "open_issues": 0,
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 437
+            "stars": 437,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         },
@@ -86,12 +114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome CQRS and Event Sourcing things",
+            "homepage": null,
             "id": 59113563,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-13T14:14:50Z",
+            "open_issues": 0,
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 437
+            "stars": 437,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         },
@@ -102,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of DDD/CQRS/ES resources",
+            "homepage": null,
             "id": 52198524,
             "language": null,
+            "license": null,
             "last_commit": "2016-08-04T07:31:09Z",
+            "open_issues": 0,
             "owner": "mlomnicki",
             "repo": "ddd-resources",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         }
@@ -124,12 +162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some ramblings around CQRS and DDDD (yes! D^4) - NodeJS // Jison // Sslac",
+            "homepage": null,
             "id": 2287997,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-22T12:29:43Z",
+            "open_issues": 0,
             "owner": "Arnauld",
             "repo": "CQRS-Ramblings",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         },
@@ -140,12 +183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event sourcing for the Web",
+            "homepage": null,
             "id": 37860484,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2015-06-30T15:23:45Z",
+            "open_issues": 0,
             "owner": "Galeria-Kaufhof",
             "repo": "web-eventsourcing",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         }
@@ -162,12 +210,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP 7.4 EventStore Implementation",
+            "homepage": "http://getprooph.org",
             "id": 18950794,
             "language": "PHP",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-03T01:38:39Z",
+            "open_issues": 1,
             "owner": "prooph",
             "repo": "event-store",
-            "stars": 548
+            "stars": 548,
+            "topics": [
+              "cqrs",
+              "ddd",
+              "event-sourcing",
+              "event-store",
+              "php",
+              "prooph"
+            ]
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         },
@@ -178,12 +238,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docs for RavenDB",
+            "homepage": "https://ravendb.net",
             "id": 961487,
             "language": "MDX",
+            "license": null,
             "last_commit": "2026-08-27T09:42:41Z",
+            "open_issues": 41,
             "owner": "ravendb",
             "repo": "docs",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         },
@@ -194,12 +259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CQRS Journey Guide converted to PDF for eBook reading.",
+            "homepage": null,
             "id": 4264877,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2012-08-16T21:25:03Z",
+            "open_issues": 0,
             "owner": "slashdotdash",
             "repo": "cqrs-journey-pdf",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         }
@@ -216,12 +286,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.",
+            "homepage": "https://debezium.io",
             "id": 50205233,
             "language": "Java",
-            "last_commit": "2026-08-28T12:44:04Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:20:00Z",
+            "open_issues": 102,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13053
+            "stars": 13054,
+            "topics": [
+              "apache-kafka",
+              "cdc",
+              "change-data-capture",
+              "data-pipeline",
+              "database",
+              "debezium",
+              "event-streaming",
+              "hacktoberfest",
+              "kafka",
+              "kafka-connect",
+              "kafka-producer"
+            ]
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         },
@@ -232,12 +319,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A keen Observer of changes that can also relay change events reliably to interested parties. Provides useful infrastructure for building Eventually Consistent data sources and systems.",
+            "homepage": null,
             "id": 14686390,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-12-17T15:39:16Z",
+            "open_issues": 13,
             "owner": "Flipkart",
             "repo": "aesop",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         },
@@ -248,12 +340,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple event store for event sourcing in Go.",
+            "homepage": null,
             "id": 49226465,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-12T13:47:01Z",
+            "open_issues": 0,
             "owner": "robertreppel",
             "repo": "hist",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
         }
@@ -272,12 +369,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Virtual actors for elixir",
+                "homepage": null,
                 "id": 55302063,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2019-09-10T13:50:22Z",
+                "open_issues": 2,
                 "owner": "CrowdHailer",
                 "repo": "pachyderm",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "actors",
+                  "elixir",
+                  "entities",
+                  "virtual-actors"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -288,12 +395,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Serverboards is a microservices based service monitoring, alerting and management system.",
+                "homepage": "https://serverboards.io",
                 "id": 62237113,
                 "language": "CSS",
+                "license": "Apache-2.0",
                 "last_commit": "2020-06-19T09:12:42Z",
+                "open_issues": 4,
                 "owner": "serverboards",
                 "repo": "serverboards",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -304,12 +416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resources for the CQRS with Erlang talk",
+                "homepage": null,
                 "id": 12766681,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-02-10T14:04:16Z",
+                "open_issues": 0,
                 "owner": "bryanhunter",
                 "repo": "cqrs-with-erlang",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -320,12 +437,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, opinionated yet flexible library to build CQRS/ES driven systems 🕺",
+                "homepage": null,
                 "id": 161094840,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2019-06-03T18:36:33Z",
+                "open_issues": 0,
                 "owner": "andreapavoni",
                 "repo": "disco",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "cqrs-es",
+                  "ecto",
+                  "elixir"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -341,12 +467,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An idiomatic Elixir wrapper for gen_statem in OTP 19 (and above).",
+                    "homepage": null,
                     "id": 60096666,
                     "language": "Elixir",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-06-16T12:29:30Z",
+                    "open_issues": 6,
                     "owner": "ericentin",
                     "repo": "gen_state_machine",
-                    "stars": 313
+                    "stars": 313,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -357,12 +488,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Elixir library that provides macros which allow you to encapsulate business logic and validate incoming parameters with predefined contract.",
+                    "homepage": null,
                     "id": 66645937,
                     "language": "Elixir",
+                    "license": "MIT",
                     "last_commit": "2023-10-26T15:53:23Z",
+                    "open_issues": 0,
                     "owner": "implicitly-awesome",
                     "repo": "exop",
-                    "stars": 216
+                    "stars": 216,
+                    "topics": [
+                      "coercion",
+                      "ddd",
+                      "elixir",
+                      "operation-invocation",
+                      "parameters",
+                      "policy-evaluation",
+                      "validation"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -373,12 +517,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FakeServer integrates with ExUnit to make external APIs testing simpler",
+                    "homepage": null,
                     "id": 67630107,
                     "language": "Elixir",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-03-06T12:03:31Z",
+                    "open_issues": 3,
                     "owner": "bernardolins",
                     "repo": "fake_server",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": [
+                      "elixir",
+                      "exunit",
+                      "fake",
+                      "fake-server",
+                      "http",
+                      "http-test",
+                      "macros",
+                      "stub",
+                      "test"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -389,12 +548,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Make your tests tell a story",
+                    "homepage": null,
                     "id": 57306544,
                     "language": "Elixir",
+                    "license": null,
                     "last_commit": "2017-02-14T19:01:27Z",
+                    "open_issues": 0,
                     "owner": "ericmj",
                     "repo": "true_story",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -405,24 +569,42 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Functional CQRS Eventsourcing Engine",
+                    "homepage": null,
                     "id": 70412021,
                     "language": "Elixir",
+                    "license": "MIT",
                     "last_commit": "2017-01-23T21:50:49Z",
+                    "open_issues": 2,
                     "owner": "work-capital",
                     "repo": "workflow",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "cqrs",
+                      "cqrs-framework",
+                      "elixir",
+                      "erlang",
+                      "event-sourcing",
+                      "eventsourcing",
+                      "eventstore"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 }
               ],
               "repo_info": {
                 "archived": true,
+                "description": "EventStore HTTP client featuring subscriptions (competing consumers) and other celebrities.",
+                "homepage": null,
                 "id": 53046246,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2016-03-16T10:56:11Z",
+                "open_issues": 0,
                 "owner": "tudborg",
                 "repo": "elixir-eventstore-http-client",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             }
@@ -440,12 +622,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event Sourcing for Go!",
+                "homepage": null,
                 "id": 26747350,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T21:08:14Z",
+                "open_issues": 46,
                 "owner": "looplab",
                 "repo": "eventhorizon",
-                "stars": 1676
+                "stars": 1676,
+                "topics": [
+                  "aws",
+                  "cqrs",
+                  "ddd",
+                  "domain-driven-design",
+                  "entity",
+                  "event-horizon",
+                  "event-sourcing",
+                  "eventsourcing",
+                  "go",
+                  "google-cloud",
+                  "jetstream",
+                  "kafka",
+                  "mongodb",
+                  "nats",
+                  "opentracing",
+                  "redis"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -456,12 +660,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Engine provides you all the capabilities to build an Event sourced application in go",
+                "homepage": null,
                 "id": 72049359,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-21T10:32:54Z",
+                "open_issues": 6,
                 "owner": "hellofresh",
                 "repo": "goengine",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "open-source",
+                  "wiz-reliability-platform-release-engineering"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -472,12 +684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example of Event Sourcing and CQRS in golang",
+                "homepage": null,
                 "id": 51015456,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2016-02-05T10:32:57Z",
+                "open_issues": 0,
                 "owner": "mcveat",
                 "repo": "event-sourcing-cqrs",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -488,12 +705,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event-sourcing and microservices infrastructure with specs framework for GoLang",
+                "homepage": null,
                 "id": 30894341,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2015-05-26T23:11:14Z",
+                "open_issues": 0,
                 "owner": "eduncan911",
                 "repo": "es",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             }
@@ -511,12 +733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimalist JavaScript framework to build applications based on DDD, CQRS and Event Sourcing. ",
+                "homepage": null,
                 "id": 19734907,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2017-01-10T15:01:34Z",
+                "open_issues": 6,
                 "owner": "efacilitation",
                 "repo": "eventric",
-                "stars": 177
+                "stars": 177,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -527,12 +754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microservices Architecture with Event Sourcing and CQRS using Node.JS",
+                "homepage": null,
                 "id": 59156578,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2026-07-30T19:53:47Z",
+                "open_issues": 0,
                 "owner": "smariussorin",
                 "repo": "Event-Sourced-Microservices",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -543,12 +775,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Test helpers for eventric.js based applications",
+                "homepage": null,
                 "id": 21343525,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2016-11-22T13:25:14Z",
+                "open_issues": 2,
                 "owner": "efacilitation",
                 "repo": "eventric-testing",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             }
@@ -566,12 +803,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Infrastructure and testing helpers for creating CQRS and event sourced applications.",
+                "homepage": "http://labs.qandidate.com/blog/2014/08/26/broadway-our-cqrs-es-framework-open-sourced/",
                 "id": 23352973,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-09T19:20:52Z",
+                "open_issues": 0,
                 "owner": "broadway",
                 "repo": "broadway",
-                "stars": 1509
+                "stars": 1509,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -582,12 +824,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small, flexible command bus",
+                "homepage": "http://tactician.thephpleague.com",
                 "id": 28866000,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-12-21T18:08:26Z",
+                "open_issues": 3,
                 "owner": "thephpleague",
                 "repo": "tactician",
-                "stars": 866
+                "stars": 866,
+                "topics": [
+                  "command-bus",
+                  "hacktoberfest",
+                  "tactician"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -598,12 +849,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP Lightweight Message Bus supporting CQRS. ",
+                "homepage": "http://getprooph.org",
                 "id": 17526173,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-08-25T17:09:11Z",
+                "open_issues": 1,
                 "owner": "prooph",
                 "repo": "service-bus",
-                "stars": 442
+                "stars": 442,
+                "topics": [
+                  "cqrs",
+                  "messaging",
+                  "php",
+                  "prooph",
+                  "service-bus"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -614,12 +876,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides basic functionality for event sourced aggregates.",
+                "homepage": "http://getprooph.org",
                 "id": 20577623,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-03-22T22:39:31Z",
+                "open_issues": 0,
                 "owner": "prooph",
                 "repo": "event-sourcing",
-                "stars": 265
+                "stars": 265,
+                "topics": [
+                  "cqrs",
+                  "ddd",
+                  "event-sourcing",
+                  "event-store",
+                  "php",
+                  "prooph"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -630,12 +904,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DDD/CQRS/EventSourcing framework with annotation driven message bus",
+                "homepage": null,
                 "id": 10129166,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2018-03-19T22:40:13Z",
+                "open_issues": 0,
                 "owner": "szjani",
                 "repo": "predaddy",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -646,12 +925,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Engine provides you all the capabilities to build an Event sourced application.",
+                "homepage": null,
                 "id": 60036711,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-03-01T10:42:27Z",
+                "open_issues": 0,
                 "owner": "hellofresh",
                 "repo": "engine",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "event-sourcing",
+                  "open-source",
+                  "php",
+                  "wiz-logistics-delivery-network"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -662,12 +951,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Marry CQRS with Event Sourcing",
+                "homepage": "http://getprooph.org",
                 "id": 38965747,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-08-26T00:11:31Z",
+                "open_issues": 0,
                 "owner": "prooph",
                 "repo": "event-store-bus-bridge",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "cqrs",
+                  "event-store",
+                  "php",
+                  "prooph",
+                  "service-bus"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -678,12 +978,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for implementing CQRS driven, event-sourced and distributed architectures.",
+                "homepage": null,
                 "id": 40905890,
                 "language": "PHP",
+                "license": "MPL-2.0",
                 "last_commit": "2020-02-28T16:01:29Z",
+                "open_issues": 35,
                 "owner": "honeybee",
                 "repo": "honeybee",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "cqrs",
+                  "event-sourcing",
+                  "php-library"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -694,12 +1003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event sourcing library",
+                "homepage": null,
                 "id": 67430553,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2017-05-15T12:13:50Z",
+                "open_issues": 1,
                 "owner": "treehouselabs",
                 "repo": "event-sourcing",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             }
@@ -717,12 +1031,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for building messaging apps with .NET and C#.",
+                "homepage": "https://brightercommand.gitbook.io/paramore-brighter-documentation",
                 "id": 1223855,
                 "language": "C#",
-                "last_commit": "2026-08-26T19:44:03Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:14:19Z",
+                "open_issues": 90,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2471
+                "stars": 2472,
+                "topics": [
+                  "asynchronously",
+                  "brighter",
+                  "command-dispatcher",
+                  "command-processor",
+                  "csharp",
+                  "csharp-library",
+                  "dotnet-core",
+                  "kafka",
+                  "mediatr",
+                  "microservices",
+                  "nuget",
+                  "nuget-packages",
+                  "rabbitmq",
+                  "redis-stream",
+                  "scale",
+                  "sns",
+                  "sqs"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -733,12 +1070,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for event sourcing in Python.",
+                "homepage": "https://eventsourcing.readthedocs.io/",
                 "id": 41365202,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-23T11:41:46Z",
+                "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1684
+                "stars": 1684,
+                "topics": [
+                  "cqrs",
+                  "ddd",
+                  "distributed-systems",
+                  "django",
+                  "domain-driven-design",
+                  "event-sourcing",
+                  "eventsourcing",
+                  "python",
+                  "python3",
+                  "sqlalchemy"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             }
@@ -756,12 +1109,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A micro library providing Ruby objects with Publish-Subscribe capabilities",
+                "homepage": null,
                 "id": 9108797,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2024-08-15T15:29:18Z",
+                "open_issues": 3,
                 "owner": "krisleech",
                 "repo": "wisper",
-                "stars": 3331
+                "stars": 3331,
+                "topics": [
+                  "events",
+                  "publish-subscribe",
+                  "pubsub",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -772,12 +1135,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CQRS & event sourcing framework for Ruby",
+                "homepage": "https://sequent.io",
                 "id": 32690099,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-06T11:26:33Z",
+                "open_issues": 2,
                 "owner": "zilverline",
                 "repo": "sequent",
-                "stars": 560
+                "stars": 560,
+                "topics": [
+                  "activerecord",
+                  "cqrs",
+                  "eventsourcing",
+                  "eventstore",
+                  "ruby",
+                  "sequent"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -788,12 +1163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exploring CQRS, Event Sourcing and DDD with Ruby",
+                "homepage": "http://github.com/cavalle/banksimplistic",
                 "id": 860439,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2022-06-17T22:10:44Z",
+                "open_issues": 1,
                 "owner": "cavalle",
                 "repo": "banksimplistic",
-                "stars": 320
+                "stars": 320,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -804,12 +1184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A versatile CQRS and event sourcing framework for Ruby",
+                "homepage": null,
                 "id": 16469702,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2014-02-03T04:19:11Z",
+                "open_issues": 0,
                 "owner": "alexaitken",
                 "repo": "synapse",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             },
@@ -820,12 +1205,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Actor based Event Sourcing library for ruby",
+                "homepage": null,
                 "id": 20720308,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2014-12-20T20:52:39Z",
+                "open_issues": 1,
                 "owner": "Papipo",
                 "repo": "event_sourcing",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "actors",
+                  "event-sourcing",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             }
@@ -843,12 +1237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CQRS and Event Sourcing Infrastructure for Meteor.",
+                "homepage": null,
                 "id": 25350715,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2016-12-15T18:11:29Z",
+                "open_issues": 14,
                 "owner": "meteor-space",
                 "repo": "event-sourcing",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
             }
@@ -868,12 +1267,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Orbit - Virtual actor framework for building distributed systems",
+                    "homepage": null,
                     "id": 32951609,
                     "language": "Kotlin",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-06-15T14:48:30Z",
+                    "open_issues": 4,
                     "owner": "orbit",
                     "repo": "orbit",
-                    "stars": 1726
+                    "stars": 1726,
+                    "topics": [
+                      "actor-model",
+                      "actors",
+                      "distributed-actors",
+                      "distributed-systems",
+                      "grains",
+                      "java",
+                      "jvm",
+                      "kotlin",
+                      "orbit",
+                      "reactive",
+                      "virtual-actors"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -884,12 +1300,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": "https://opencredo.com/blogs/concursus-programming-model/",
                     "id": 52522585,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2026-06-11T12:05:24Z",
+                    "open_issues": 0,
                     "owner": "opencredo",
                     "repo": "concursus",
-                    "stars": 96
+                    "stars": 96,
+                    "topics": [
+                      "blog-article"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -900,12 +1323,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for Fred George's MicroService Workshop; Uses Rapids-Rivers framework in each language.",
+                    "homepage": null,
                     "id": 542621724,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-09-28T15:02:05Z",
+                    "open_issues": 0,
                     "owner": "fredgeorge",
                     "repo": "microservice_workshop",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 }
@@ -923,12 +1351,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pure functional event sourcing runtime",
+                    "homepage": "aecor.io",
                     "id": 60449930,
                     "language": "Scala",
+                    "license": "MIT",
                     "last_commit": "2024-08-13T00:41:25Z",
+                    "open_issues": 79,
                     "owner": "notxcain",
                     "repo": "aecor",
-                    "stars": 325
+                    "stars": 325,
+                    "topics": [
+                      "aecor",
+                      "akka",
+                      "behavior",
+                      "cqrs",
+                      "distributed",
+                      "eventsourcing",
+                      "functional-programming",
+                      "pure",
+                      "reactive",
+                      "runtime",
+                      "scala"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -939,12 +1384,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Schema evolution for akka-persistence",
+                    "homepage": null,
                     "id": 28387011,
                     "language": "Scala",
+                    "license": "MIT",
                     "last_commit": "2020-08-18T10:34:21Z",
+                    "open_issues": 17,
                     "owner": "scalapenos",
                     "repo": "stamina",
-                    "stars": 148
+                    "stars": 148,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -955,12 +1405,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 31648698,
                     "language": "Scala",
+                    "license": null,
                     "last_commit": "2015-03-23T01:20:59Z",
+                    "open_issues": 0,
                     "owner": "gabehollombe",
                     "repo": "scala-bank-cqrs-es",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 }
@@ -978,12 +1433,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Experimental CQRS and Event Sourcing service",
+                    "homepage": null,
                     "id": 67724396,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-07-10T00:41:41Z",
+                    "open_issues": 4,
                     "owner": "capitalone",
                     "repo": "cqrs-manager-for-distributed-reactive-services",
-                    "stars": 302
+                    "stars": 302,
+                    "topics": [
+                      "cqrs",
+                      "event-sourcing",
+                      "kafka"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -994,12 +1458,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Clojure Event Sourcing toolkit",
+                    "homepage": null,
                     "id": 27927720,
                     "language": "Clojure",
+                    "license": "EPL-1.0",
                     "last_commit": "2018-06-06T15:02:51Z",
+                    "open_issues": 3,
                     "owner": "rill-event-sourcing",
                     "repo": "rill",
-                    "stars": 89
+                    "stars": 89,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -1010,12 +1479,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Event generation using aggregates and commands",
+                    "homepage": null,
                     "id": 64372071,
                     "language": "Clojure",
+                    "license": "EPL-1.0",
                     "last_commit": "2017-08-30T12:55:28Z",
+                    "open_issues": 0,
                     "owner": "rill-event-sourcing",
                     "repo": "wheel",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 }
@@ -1040,12 +1514,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Event sourcing implementation sample in F# - Moved to Codeberg",
+                    "homepage": "https://codeberg.org/thinkbeforecoding/FsUno",
                     "id": 11019518,
                     "language": "F#",
+                    "license": null,
                     "last_commit": "2025-04-05T18:24:05Z",
+                    "open_issues": 1,
                     "owner": "thinkbeforecoding",
                     "repo": "FsUno",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -1056,12 +1535,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Another sample project showing event sourcing in F#. ",
+                    "homepage": null,
                     "id": 45435053,
                     "language": "F#",
+                    "license": "MIT",
                     "last_commit": "2021-02-13T13:14:35Z",
+                    "open_issues": 2,
                     "owner": "mastoj",
                     "repo": "LibAAS",
-                    "stars": 46
+                    "stars": 46,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 }
@@ -1079,12 +1563,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Async/await first CQRS+ES and DDD framework for .NET",
+                    "homepage": "https://geteventflow.net",
                     "id": 32411368,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-31T10:37:33Z",
+                    "open_issues": 13,
                     "owner": "eventflow",
                     "repo": "EventFlow",
-                    "stars": 2564
+                    "stars": 2564,
+                    "topics": [
+                      "async-await",
+                      "c-sharp",
+                      "cqrs",
+                      "cqrs-es",
+                      "ddd",
+                      "domain-driven-design",
+                      "dotnet",
+                      "dotnet-core",
+                      "elasticsearch",
+                      "event-sourcing",
+                      "events",
+                      "eventsourcing",
+                      "eventstore",
+                      "framework",
+                      "netcore",
+                      "netstandard",
+                      "nuget",
+                      "rabbitmq",
+                      "sagas"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -1095,12 +1604,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Simple Event Sourcing Example Application",
+                    "homepage": "http://sneakycode.net/event-sourcing-and-battling-accidental-complexity-devday2016/",
                     "id": 56401206,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2020-09-05T08:31:42Z",
+                    "open_issues": 3,
                     "owner": "SneakyPeet",
                     "repo": "EasyEventSourcing",
-                    "stars": 231
+                    "stars": 231,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -1111,12 +1625,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cronus is a lightweight framework for building event driven systems with DDD/CQRS in mind",
+                    "homepage": null,
                     "id": 12587176,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-11T11:34:55Z",
+                    "open_issues": 50,
                     "owner": "Elders",
                     "repo": "Cronus",
-                    "stars": 174
+                    "stars": 174,
+                    "topics": [
+                      "cqrs",
+                      "cronus",
+                      "ddd",
+                      "event-sourcing",
+                      "lightweight-framework",
+                      "microservices",
+                      "processmanager",
+                      "saga-pattern"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -1127,12 +1655,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A conference example to explain how to use enode to develop ddd+cqrs+event souricng application.",
+                    "homepage": null,
                     "id": 26074474,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2022-12-08T08:57:18Z",
+                    "open_issues": 15,
                     "owner": "tangxuehua",
                     "repo": "Conference",
-                    "stars": 115
+                    "stars": 115,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -1143,12 +1676,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fluent Projections provide a configurable hub that handle events and map them to database projection tables (read models).",
+                    "homepage": null,
                     "id": 13684443,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2018-08-15T21:19:27Z",
+                    "open_issues": 0,
                     "owner": "corker",
                     "repo": "FluentProjections",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -1159,12 +1697,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stream your data from any source. Build projections and aggregations. Parallelize. Distribute. Replay.",
+                    "homepage": null,
                     "id": 28777792,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2016-12-07T22:38:14Z",
+                    "open_issues": 2,
                     "owner": "jonsequitur",
                     "repo": "Alluvial",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -1175,12 +1718,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DDD CQRS Event Sourcing Abstraction Library",
+                    "homepage": null,
                     "id": 62249296,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-21T19:56:32Z",
+                    "open_issues": 0,
                     "owner": "2020IP",
                     "repo": "TwentyTwenty.DomainDriven",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "cqrs",
+                      "ddd",
+                      "event-sourcing",
+                      "marten"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 },
@@ -1191,12 +1744,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A C#/Asp.Net production-ready Framework using CQRS and Event-Sourcing",
+                    "homepage": null,
                     "id": 52209020,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2018-06-04T07:56:02Z",
+                    "open_issues": 0,
                     "owner": "klejeune",
                     "repo": "teclyn",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
                 }
@@ -1215,15 +1773,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:33:24.592Z",
+    "last_updated": "2026-08-29T05:05:26.301Z",
     "original_repository_info": {
       "archived": false,
+      "description": "some links about CQRS / Event Sourcing",
+      "homepage": null,
       "id": 73019291,
       "language": null,
+      "license": null,
       "last_commit": "2018-12-13T12:41:01Z",
+      "open_issues": 0,
       "owner": "mindreframer",
       "repo": "awesome_cqrs",
-      "stars": 62
+      "stars": 62,
+      "topics": [
+        "awesome-list",
+        "cqrs",
+        "eventsourcing",
+        "link-collection"
+      ]
     },
     "original_repository_sha": "5f50aa3139fc3d334e016681caa85fb57bf048a1",
     "enhanced_repository": "enhansome/enhansome_cqrs",
