@@ -102,7 +102,7 @@
             "open_issues": 0,
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 437,
+            "stars": 434,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -123,7 +123,7 @@
             "open_issues": 0,
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 437,
+            "stars": 434,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -243,8 +243,8 @@
             "id": 961487,
             "language": "MDX",
             "license": null,
-            "last_commit": "2026-08-30T20:43:07Z",
-            "open_issues": 42,
+            "last_commit": "2026-09-02T01:14:10Z",
+            "open_issues": 16,
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115,
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T03:39:13Z",
-            "open_issues": 108,
+            "last_commit": "2026-09-01T15:54:10Z",
+            "open_issues": 112,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13068,
+            "stars": 13070,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -665,8 +665,8 @@
                 "id": 72049359,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-21T10:32:54Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-01T10:34:03Z",
+                "open_issues": 5,
                 "owner": "hellofresh",
                 "repo": "goengine",
                 "stars": 129,
@@ -1036,11 +1036,11 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-01T04:09:36Z",
-                "open_issues": 91,
+                "last_commit": "2026-09-01T15:04:16Z",
+                "open_issues": 92,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2476,
+                "stars": 2478,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -1079,7 +1079,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1684,
+                "stars": 1683,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -1276,7 +1276,7 @@
                     "open_issues": 4,
                     "owner": "orbit",
                     "repo": "orbit",
-                    "stars": 1727,
+                    "stars": 1728,
                     "topics": [
                       "actor-model",
                       "actors",
@@ -1572,7 +1572,7 @@
                     "open_issues": 13,
                     "owner": "eventflow",
                     "repo": "EventFlow",
-                    "stars": 2565,
+                    "stars": 2566,
                     "topics": [
                       "async-await",
                       "c-sharp",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T06:59:14.938Z",
+    "last_updated": "2026-09-02T06:38:00.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
