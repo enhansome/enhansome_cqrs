@@ -102,7 +102,7 @@
             "open_issues": 0,
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 434,
+            "stars": 435,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -123,7 +123,7 @@
             "open_issues": 0,
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 434,
+            "stars": 435,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -295,7 +295,7 @@
             "open_issues": 127,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13083,
+            "stars": 13084,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -497,7 +497,7 @@
                     "open_issues": 0,
                     "owner": "implicitly-awesome",
                     "repo": "exop",
-                    "stars": 216,
+                    "stars": 215,
                     "topics": [
                       "coercion",
                       "ddd",
@@ -631,7 +631,7 @@
                 "open_issues": 46,
                 "owner": "looplab",
                 "repo": "eventhorizon",
-                "stars": 1677,
+                "stars": 1678,
                 "topics": [
                   "aws",
                   "cqrs",
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-03T17:30:10Z",
-                "open_issues": 94,
+                "last_commit": "2026-09-05T17:32:23Z",
+                "open_issues": 96,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2480,
@@ -1079,7 +1079,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1683,
+                "stars": 1684,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:30:38.576Z",
+    "last_updated": "2026-09-06T06:39:56.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",

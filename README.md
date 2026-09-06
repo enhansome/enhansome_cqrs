@@ -24,8 +24,8 @@
 ### Other link collections
 
 * [valentjedi/ddd-dynamic: Domain Driven Design in Python, Ruby and other dynamic languages resources](https://github.com/valentjedi/ddd-dynamic) ⭐ 1,400 | 🐛 3 | 📅 2023-06-08
-* [A curated list of awesome CQRS and Event Sourcing things](https://github.com/leandrocp/awesome-cqrs-event-sourcing) ⭐ 434 | 🐛 0 | 📅 2026-07-13
-* [GitHub - leandrocp/awesome-cqrs-event-sourcing: A curated list of awesome CQRS and Event Sourcing things](https://github.com/leandrocp/awesome-cqrs-event-sourcing) ⭐ 434 | 🐛 0 | 📅 2026-07-13
+* [A curated list of awesome CQRS and Event Sourcing things](https://github.com/leandrocp/awesome-cqrs-event-sourcing) ⭐ 435 | 🐛 0 | 📅 2026-07-13
+* [GitHub - leandrocp/awesome-cqrs-event-sourcing: A curated list of awesome CQRS and Event Sourcing things](https://github.com/leandrocp/awesome-cqrs-event-sourcing) ⭐ 435 | 🐛 0 | 📅 2026-07-13
 * [mlomnicki/ddd-resources: ](https://github.com/mlomnicki/ddd-resources) ⭐ 29 | 🐛 0 | 📅 2016-08-04
 
 ### Notes
@@ -131,7 +131,7 @@
 
 ### Tools
 
-* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,083 | 🐛 127 | 🌐 Java | 📅 2026-09-04
+* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,084 | 🐛 127 | 🌐 Java | 📅 2026-09-04
 * [GitHub - Flipkart/aesop: A keen Observer of change](https://github.com/Flipkart/aesop) ⭐ 24 | 🐛 13 | 🌐 Java | 📅 2023-12-17
 * [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2017-04-12
 
@@ -145,7 +145,7 @@
 * [Github - andreapavoni/disco](https://github.com/andreapavoni/disco) ⭐ 33 | 🐛 0 | 🌐 Elixir | 📅 2019-06-03 - Simple, opinionated yet flexible library to build CQRS/ES driven systems 🕺
 * [EventStore HTTP client featuring subscriptions (competing consumers) and other celebrities.](https://github.com/tbug/elixir-eventstore-http-client) ⚠️ Archived
   * [GitHub - antipax/gen\_state\_machine: An idiomatic Elixir wrapper for gen\_statem in OTP 19 (and above).](https://github.com/antipax/gen_state_machine) ⭐ 313 | 🐛 6 | 🌐 Elixir | 📅 2024-06-16
-  * [GitHub - madeinussr/exop: Little library that provides a few macros which allow to you encapsulate business logic and validate incoming params over predefined contract.](https://github.com/madeinussr/exop) ⭐ 216 | 🐛 0 | 🌐 Elixir | 📅 2023-10-26
+  * [GitHub - madeinussr/exop: Little library that provides a few macros which allow to you encapsulate business logic and validate incoming params over predefined contract.](https://github.com/madeinussr/exop) ⭐ 215 | 🐛 0 | 🌐 Elixir | 📅 2023-10-26
   * [GitHub - bernardolins/fake\_server: FakeServer is a simple HTTP server used to mock external services responses on your tests.](https://github.com/bernardolins/fake_server) ⭐ 72 | 🐛 3 | 🌐 Elixir | 📅 2020-03-06
   * [GitHub - ericmj/true\_story: Make your tests tell a story](https://github.com/ericmj/true_story) ⭐ 56 | 🐛 0 | 🌐 Elixir | 📅 2017-02-14
   * [CQRS Eventsourcing Engine - Elixir](https://github.com/work-capital/elixir-cqrs-eventsourcing) ⭐ 24 | 🐛 2 | 🌐 Elixir | 📅 2017-01-23
@@ -155,7 +155,7 @@
 
 ### Golang
 
-* [GitHub - looplab/eventhorizon: CQRS/ES toolkit for Go](https://github.com/looplab/eventhorizon) ⭐ 1,677 | 🐛 46 | 🌐 Go | 📅 2026-09-02
+* [GitHub - looplab/eventhorizon: CQRS/ES toolkit for Go](https://github.com/looplab/eventhorizon) ⭐ 1,678 | 🐛 46 | 🌐 Go | 📅 2026-09-02
 * [hellofresh/goengine: Engine provides you all the capabilities to build an Event sourced application in go](https://github.com/hellofresh/goengine) ⭐ 129 | 🐛 5 | 🌐 Go | 📅 2026-09-02
 * [mcveat/event-sourcing-cqrs: Example of Event Sourcing and CQRS in golang](https://github.com/mcveat/event-sourcing-cqrs) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2016-02-05
 * [GitHub - eduncan911/es: Event-sourcing and microservices infrastructure with specs framework for GoLang](https://github.com/eduncan911/es) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2015-05-26
@@ -181,8 +181,8 @@
 
 ### Python
 
-* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,480 | 🐛 94 | 🌐 C# | 📅 2026-09-03
-* [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,683 | 🐛 4 | 🌐 Python | 📅 2026-08-23
+* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,480 | 🐛 96 | 🌐 C# | 📅 2026-09-05
+* [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,684 | 🐛 4 | 🌐 Python | 📅 2026-08-23
 
 ### Ruby
 
@@ -250,4 +250,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
