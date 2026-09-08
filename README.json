@@ -243,8 +243,8 @@
             "id": 961487,
             "language": "MDX",
             "license": null,
-            "last_commit": "2026-09-04T11:13:16Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-07T11:21:26Z",
+            "open_issues": 13,
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115,
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T10:47:43Z",
-            "open_issues": 128,
+            "last_commit": "2026-09-07T16:50:26Z",
+            "open_issues": 127,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13089,
+            "stars": 13093,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -631,7 +631,7 @@
                 "open_issues": 46,
                 "owner": "looplab",
                 "repo": "eventhorizon",
-                "stars": 1678,
+                "stars": 1676,
                 "topics": [
                   "aws",
                   "cqrs",
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-06T16:47:55Z",
-                "open_issues": 97,
+                "last_commit": "2026-09-07T22:17:52Z",
+                "open_issues": 106,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2480,
@@ -1572,7 +1572,7 @@
                     "open_issues": 13,
                     "owner": "eventflow",
                     "repo": "EventFlow",
-                    "stars": 2566,
+                    "stars": 2567,
                     "topics": [
                       "async-await",
                       "c-sharp",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T06:48:23.398Z",
+    "last_updated": "2026-09-08T06:44:32.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
