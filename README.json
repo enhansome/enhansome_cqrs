@@ -102,7 +102,7 @@
             "open_issues": 0,
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 435,
+            "stars": 436,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -123,7 +123,7 @@
             "open_issues": 0,
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 435,
+            "stars": 436,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -243,8 +243,8 @@
             "id": 961487,
             "language": "MDX",
             "license": null,
-            "last_commit": "2026-09-08T22:17:16Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-09T22:52:09Z",
+            "open_issues": 14,
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115,
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T23:13:27Z",
-            "open_issues": 129,
+            "last_commit": "2026-09-10T06:09:24Z",
+            "open_issues": 132,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13098,
+            "stars": 13103,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-08T15:16:21Z",
-                "open_issues": 107,
+                "last_commit": "2026-09-10T06:34:57Z",
+                "open_issues": 113,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2480,
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:53:35.377Z",
+    "last_updated": "2026-09-10T06:49:54.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
