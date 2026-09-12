@@ -125,13 +125,13 @@
 ### Good documentation
 
 * [prooph/event-store · Docs (DDD/CQRS/ES concepts)](https://github.com/prooph/event-store/tree/master/docs) ⭐ 548 | 🐛 1 | 🌐 PHP | 📅 2026-05-03
-* <https://github.com/ravendb/docs/blob/master/Articles/Raven.Documentation.Articles/articles/cqrs-and-event-sourcing-made-easy-with-ravendb.markdown> ⭐ 115 | 🐛 16 | 🌐 MDX | 📅 2026-09-10
+* <https://github.com/ravendb/docs/blob/master/Articles/Raven.Documentation.Articles/articles/cqrs-and-event-sourcing-made-easy-with-ravendb.markdown> ⭐ 115 | 🐛 15 | 🌐 MDX | 📅 2026-09-11
 * [GitHub - slashdotdash/cqrs-journey-pdf: CQRS Journey Guide converted to PDF for eBook reading.](https://github.com/slashdotdash/cqrs-journey-pdf) ⭐ 10 | 🐛 0 | 🌐 Ruby | 📅 2012-08-16
 * [proophessor - Exploring prooph components](http://getprooph.org/)
 
 ### Tools
 
-* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,107 | 🐛 127 | 🌐 Java | 📅 2026-09-11
+* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,108 | 🐛 126 | 🌐 Java | 📅 2026-09-11
 * [GitHub - Flipkart/aesop: A keen Observer of change](https://github.com/Flipkart/aesop) ⭐ 24 | 🐛 13 | 🌐 Java | 📅 2023-12-17
 * [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2017-04-12
 
@@ -186,7 +186,7 @@
 
 ### Ruby
 
-* [krisleech/wisper: A micro library providing Ruby objects with Publish-Subscribe capabilities](https://github.com/krisleech/wisper) ⭐ 3,333 | 🐛 3 | 🌐 Ruby | 📅 2024-08-15
+* [krisleech/wisper: A micro library providing Ruby objects with Publish-Subscribe capabilities](https://github.com/krisleech/wisper) ⭐ 3,334 | 🐛 3 | 🌐 Ruby | 📅 2024-08-15
 * [zilverline/sequent: CQRS & event sourcing framework for Ruby](https://github.com/zilverline/sequent) ⭐ 560 | 🐛 2 | 🌐 Ruby | 📅 2026-08-06
 * [GitHub - cavalle/banksimplistic: Exploring CQRS, Event Sourcing and DDD with Ruby](https://github.com/cavalle/banksimplistic) ⭐ 320 | 🐛 1 | 🌐 Ruby | 📅 2022-06-17
 * [alexaitken/synapse: A versatile CQRS and event sourcing framework for Ruby](https://github.com/alexaitken/synapse) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2014-02-03
@@ -250,4 +250,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
