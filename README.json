@@ -292,7 +292,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T13:32:52Z",
-            "open_issues": 126,
+            "open_issues": 128,
             "owner": "debezium",
             "repo": "debezium",
             "stars": 13108,
@@ -1036,11 +1036,11 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-11T15:56:29Z",
-                "open_issues": 117,
+                "last_commit": "2026-09-13T00:12:26Z",
+                "open_issues": 124,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2480,
+                "stars": 2481,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -1276,7 +1276,7 @@
                     "open_issues": 4,
                     "owner": "orbit",
                     "repo": "orbit",
-                    "stars": 1728,
+                    "stars": 1729,
                     "topics": [
                       "actor-model",
                       "actors",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T06:41:48.445Z",
+    "last_updated": "2026-09-13T06:59:35.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
