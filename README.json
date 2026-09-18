@@ -243,7 +243,7 @@
             "id": 961487,
             "language": "MDX",
             "license": null,
-            "last_commit": "2026-09-16T16:26:00Z",
+            "last_commit": "2026-09-17T13:54:40Z",
             "open_issues": 15,
             "owner": "ravendb",
             "repo": "docs",
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T01:49:10Z",
-            "open_issues": 127,
+            "last_commit": "2026-09-18T06:36:50Z",
+            "open_issues": 126,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13129,
+            "stars": 13130,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -631,7 +631,7 @@
                 "open_issues": 46,
                 "owner": "looplab",
                 "repo": "eventhorizon",
-                "stars": 1677,
+                "stars": 1678,
                 "topics": [
                   "aws",
                   "cqrs",
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-16T21:50:10Z",
-                "open_issues": 133,
+                "last_commit": "2026-09-18T06:24:39Z",
+                "open_issues": 135,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2481,
@@ -1079,7 +1079,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1684,
+                "stars": 1685,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:55:07.666Z",
+    "last_updated": "2026-09-18T06:52:15.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
