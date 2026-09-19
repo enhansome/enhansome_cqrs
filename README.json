@@ -243,7 +243,7 @@
             "id": 961487,
             "language": "MDX",
             "license": null,
-            "last_commit": "2026-09-17T13:54:40Z",
+            "last_commit": "2026-09-18T10:12:36Z",
             "open_issues": 15,
             "owner": "ravendb",
             "repo": "docs",
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T06:36:50Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-18T11:20:45Z",
+            "open_issues": 130,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13130,
+            "stars": 13136,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -665,7 +665,7 @@
                 "id": 72049359,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-02T10:33:38Z",
+                "last_commit": "2026-09-18T10:33:24Z",
                 "open_issues": 5,
                 "owner": "hellofresh",
                 "repo": "goengine",
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-18T06:24:39Z",
-                "open_issues": 135,
+                "last_commit": "2026-09-18T15:55:59Z",
+                "open_issues": 134,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2481,
@@ -1467,7 +1467,7 @@
                     "open_issues": 3,
                     "owner": "rill-event-sourcing",
                     "repo": "rill",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:33:24.592Z"
@@ -1572,7 +1572,7 @@
                     "open_issues": 13,
                     "owner": "eventflow",
                     "repo": "EventFlow",
-                    "stars": 2567,
+                    "stars": 2568,
                     "topics": [
                       "async-await",
                       "c-sharp",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T06:52:15.286Z",
+    "last_updated": "2026-09-19T06:51:00.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",

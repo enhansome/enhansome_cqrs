@@ -125,13 +125,13 @@
 ### Good documentation
 
 * [prooph/event-store · Docs (DDD/CQRS/ES concepts)](https://github.com/prooph/event-store/tree/master/docs) ⭐ 548 | 🐛 1 | 🌐 PHP | 📅 2026-05-03
-* <https://github.com/ravendb/docs/blob/master/Articles/Raven.Documentation.Articles/articles/cqrs-and-event-sourcing-made-easy-with-ravendb.markdown> ⭐ 115 | 🐛 15 | 🌐 MDX | 📅 2026-09-17
+* <https://github.com/ravendb/docs/blob/master/Articles/Raven.Documentation.Articles/articles/cqrs-and-event-sourcing-made-easy-with-ravendb.markdown> ⭐ 115 | 🐛 15 | 🌐 MDX | 📅 2026-09-18
 * [GitHub - slashdotdash/cqrs-journey-pdf: CQRS Journey Guide converted to PDF for eBook reading.](https://github.com/slashdotdash/cqrs-journey-pdf) ⭐ 10 | 🐛 0 | 🌐 Ruby | 📅 2012-08-16
 * [proophessor - Exploring prooph components](http://getprooph.org/)
 
 ### Tools
 
-* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,130 | 🐛 126 | 🌐 Java | 📅 2026-09-18
+* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,136 | 🐛 130 | 🌐 Java | 📅 2026-09-18
 * [GitHub - Flipkart/aesop: A keen Observer of change](https://github.com/Flipkart/aesop) ⭐ 24 | 🐛 13 | 🌐 Java | 📅 2023-12-17
 * [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2017-04-12
 
@@ -156,7 +156,7 @@
 ### Golang
 
 * [GitHub - looplab/eventhorizon: CQRS/ES toolkit for Go](https://github.com/looplab/eventhorizon) ⭐ 1,678 | 🐛 46 | 🌐 Go | 📅 2026-09-02
-* [hellofresh/goengine: Engine provides you all the capabilities to build an Event sourced application in go](https://github.com/hellofresh/goengine) ⭐ 129 | 🐛 5 | 🌐 Go | 📅 2026-09-02
+* [hellofresh/goengine: Engine provides you all the capabilities to build an Event sourced application in go](https://github.com/hellofresh/goengine) ⭐ 129 | 🐛 5 | 🌐 Go | 📅 2026-09-18
 * [mcveat/event-sourcing-cqrs: Example of Event Sourcing and CQRS in golang](https://github.com/mcveat/event-sourcing-cqrs) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2016-02-05
 * [GitHub - eduncan911/es: Event-sourcing and microservices infrastructure with specs framework for GoLang](https://github.com/eduncan911/es) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2015-05-26
 * <https://medium.com/@Oskarr3/implementing-cqrs-using-kafka-and-sarama-library-in-golang-da7efa3b77fe#.7gvhtgyf8>
@@ -181,7 +181,7 @@
 
 ### Python
 
-* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,481 | 🐛 135 | 🌐 C# | 📅 2026-09-18
+* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,481 | 🐛 134 | 🌐 C# | 📅 2026-09-18
 * [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,685 | 🐛 4 | 🌐 Python | 📅 2026-08-23
 
 ### Ruby
@@ -219,7 +219,7 @@
 ### Clojure
 
 * [GitHub - capitalone/cqrs-manager-for-distributed-reactive-services: Experimental CQRS and Event Sourcing service](https://github.com/capitalone/cqrs-manager-for-distributed-reactive-services) ⚠️ Archived
-* [rill-event-sourcing/rill: Clojure Event Sourcing toolkit](https://github.com/rill-event-sourcing/rill) ⭐ 89 | 🐛 3 | 🌐 Clojure | 📅 2018-06-06
+* [rill-event-sourcing/rill: Clojure Event Sourcing toolkit](https://github.com/rill-event-sourcing/rill) ⭐ 90 | 🐛 3 | 🌐 Clojure | 📅 2018-06-06
 * [rill-event-sourcing/wheel: Event generation using aggregates and commands](https://github.com/rill-event-sourcing/wheel) ⭐ 8 | 🐛 0 | 🌐 Clojure | 📅 2017-08-30
 
 ## .NET
@@ -231,7 +231,7 @@
 
 ### C-Sharp
 
-* [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/) ⭐ 2,567 | 🐛 13 | 🌐 C# | 📅 2026-07-31
+* [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/) ⭐ 2,568 | 🐛 13 | 🌐 C# | 📅 2026-07-31
 * [GitHub - SneakyPeet/EasyEventSourcing: A Simple Event Sourcing Example Application](https://github.com/SneakyPeet/EasyEventSourcing) ⭐ 231 | 🐛 3 | 🌐 C# | 📅 2020-09-05
 * [GitHub - Elders/Cronus: Cronus is a lightweight framework for dispatching and receiving messages between microservices with DDD/CQRS in mind](https://github.com/Elders/Cronus) ⭐ 174 | 🐛 50 | 🌐 C# | 📅 2026-05-11
 * [GitHub - tangxuehua/Conference: A conference example to explain how to use enode to develop ddd+cqrs+event souricng application.](https://github.com/tangxuehua/Conference) ⭐ 115 | 🐛 15 | 🌐 C# | 📅 2022-12-08
@@ -250,4 +250,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
