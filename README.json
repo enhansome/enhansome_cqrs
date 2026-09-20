@@ -73,7 +73,7 @@
             "open_issues": 3,
             "owner": "valignatev",
             "repo": "ddd-dynamic",
-            "stars": 1400,
+            "stars": 1399,
             "topics": [
               "architecture",
               "cleanarchitecture",
@@ -292,10 +292,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T11:20:45Z",
-            "open_issues": 130,
+            "open_issues": 131,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13136,
+            "stars": 13138,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -1036,11 +1036,11 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-18T15:55:59Z",
-                "open_issues": 134,
+                "last_commit": "2026-09-19T10:53:36Z",
+                "open_issues": 135,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2481,
+                "stars": 2482,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -1079,7 +1079,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1685,
+                "stars": 1686,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T06:51:00.352Z",
+    "last_updated": "2026-09-20T07:15:42.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
