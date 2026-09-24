@@ -244,7 +244,7 @@
             "language": "MDX",
             "license": null,
             "last_commit": "2026-09-22T14:15:50Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115,
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T06:28:19Z",
-            "open_issues": 141,
+            "last_commit": "2026-09-23T20:01:57Z",
+            "open_issues": 140,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13144,
+            "stars": 13147,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-22T13:43:34Z",
-                "open_issues": 140,
+                "last_commit": "2026-09-23T22:40:45Z",
+                "open_issues": 137,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2482,
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T06:59:02.282Z",
+    "last_updated": "2026-09-24T06:56:40.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
