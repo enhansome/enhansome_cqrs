@@ -73,7 +73,7 @@
             "open_issues": 3,
             "owner": "valignatev",
             "repo": "ddd-dynamic",
-            "stars": 1399,
+            "stars": 1400,
             "topics": [
               "architecture",
               "cleanarchitecture",
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T02:26:10Z",
-            "open_issues": 132,
+            "last_commit": "2026-10-02T03:08:23Z",
+            "open_issues": 127,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13173,
+            "stars": 13175,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-30T23:47:35Z",
-                "open_issues": 104,
+                "last_commit": "2026-10-01T22:53:08Z",
+                "open_issues": 109,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2481,
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T08:01:27.947Z",
+    "last_updated": "2026-10-02T07:44:23.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
