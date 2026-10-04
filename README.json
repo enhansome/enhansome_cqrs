@@ -219,7 +219,7 @@
             "open_issues": 1,
             "owner": "prooph",
             "repo": "event-store",
-            "stars": 548,
+            "stars": 546,
             "topics": [
               "cqrs",
               "ddd",
@@ -244,7 +244,7 @@
             "language": "MDX",
             "license": null,
             "last_commit": "2026-09-30T18:35:30Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115,
@@ -292,10 +292,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T12:58:27Z",
-            "open_issues": 135,
+            "open_issues": 136,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13174,
+            "stars": 13176,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -812,7 +812,7 @@
                 "open_issues": 0,
                 "owner": "broadway",
                 "repo": "broadway",
-                "stars": 1509,
+                "stars": 1507,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-02T17:48:18Z",
-                "open_issues": 110,
+                "last_commit": "2026-10-03T20:02:13Z",
+                "open_issues": 103,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2480,
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:18:20.023Z",
+    "last_updated": "2026-10-04T07:34:55.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
