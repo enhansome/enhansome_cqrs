@@ -131,7 +131,7 @@
 
 ### Tools
 
-* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,176 | 🐛 136 | 🌐 Java | 📅 2026-10-02
+* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,178 | 🐛 131 | 🌐 Java | 📅 2026-10-05
 * [GitHub - Flipkart/aesop: A keen Observer of change](https://github.com/Flipkart/aesop) ⭐ 24 | 🐛 13 | 🌐 Java | 📅 2023-12-17
 * [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2017-04-12
 
@@ -181,7 +181,7 @@
 
 ### Python
 
-* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,480 | 🐛 103 | 🌐 C# | 📅 2026-10-03
+* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,480 | 🐛 97 | 🌐 C# | 📅 2026-10-04
 * [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,687 | 🐛 4 | 🌐 Python | 📅 2026-08-23
 
 ### Ruby
@@ -231,7 +231,7 @@
 
 ### C-Sharp
 
-* [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/) ⭐ 2,566 | 🐛 13 | 🌐 C# | 📅 2026-07-31
+* [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/) ⭐ 2,567 | 🐛 13 | 🌐 C# | 📅 2026-10-04
 * [GitHub - SneakyPeet/EasyEventSourcing: A Simple Event Sourcing Example Application](https://github.com/SneakyPeet/EasyEventSourcing) ⭐ 231 | 🐛 3 | 🌐 C# | 📅 2020-09-05
 * [GitHub - Elders/Cronus: Cronus is a lightweight framework for dispatching and receiving messages between microservices with DDD/CQRS in mind](https://github.com/Elders/Cronus) ⭐ 174 | 🐛 50 | 🌐 C# | 📅 2026-05-11
 * [GitHub - tangxuehua/Conference: A conference example to explain how to use enode to develop ddd+cqrs+event souricng application.](https://github.com/tangxuehua/Conference) ⭐ 115 | 🐛 15 | 🌐 C# | 📅 2022-12-08
@@ -250,4 +250,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
