@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T23:42:44Z",
-            "open_issues": 129,
+            "last_commit": "2026-10-11T03:02:11Z",
+            "open_issues": 132,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13208,
+            "stars": 13210,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -631,7 +631,7 @@
                 "open_issues": 46,
                 "owner": "looplab",
                 "repo": "eventhorizon",
-                "stars": 1679,
+                "stars": 1680,
                 "topics": [
                   "aws",
                   "cqrs",
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-09T16:06:00Z",
-                "open_issues": 108,
+                "last_commit": "2026-10-11T00:33:01Z",
+                "open_issues": 111,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2486,
@@ -1079,7 +1079,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1687,
+                "stars": 1688,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -1144,7 +1144,7 @@
                 "open_issues": 3,
                 "owner": "zilverline",
                 "repo": "sequent",
-                "stars": 561,
+                "stars": 562,
                 "topics": [
                   "activerecord",
                   "cqrs",
@@ -1572,7 +1572,7 @@
                     "open_issues": 13,
                     "owner": "eventflow",
                     "repo": "EventFlow",
-                    "stars": 2567,
+                    "stars": 2568,
                     "topics": [
                       "async-await",
                       "c-sharp",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:54:25.827Z",
+    "last_updated": "2026-10-11T08:01:20.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
