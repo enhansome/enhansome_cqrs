@@ -291,8 +291,8 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T03:02:11Z",
-            "open_issues": 132,
+            "last_commit": "2026-10-11T19:27:03Z",
+            "open_issues": 135,
             "owner": "debezium",
             "repo": "debezium",
             "stars": 13210,
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-11T00:33:01Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-12T07:44:42Z",
+                "open_issues": 104,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2486,
@@ -1079,7 +1079,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1688,
+                "stars": 1689,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T08:01:20.237Z",
+    "last_updated": "2026-10-12T08:17:35.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
