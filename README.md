@@ -131,7 +131,7 @@
 
 ### Tools
 
-* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,215 | 🐛 130 | 🌐 Java | 📅 2026-10-13
+* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,217 | 🐛 132 | 🌐 Java | 📅 2026-10-15
 * [GitHub - Flipkart/aesop: A keen Observer of change](https://github.com/Flipkart/aesop) ⭐ 24 | 🐛 13 | 🌐 Java | 📅 2023-12-17
 * [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2017-04-12
 
@@ -156,7 +156,7 @@
 ### Golang
 
 * [GitHub - looplab/eventhorizon: CQRS/ES toolkit for Go](https://github.com/looplab/eventhorizon) ⭐ 1,680 | 🐛 46 | 🌐 Go | 📅 2026-09-02
-* [hellofresh/goengine: Engine provides you all the capabilities to build an Event sourced application in go](https://github.com/hellofresh/goengine) ⭐ 129 | 🐛 4 | 🌐 Go | 📅 2026-10-12
+* [hellofresh/goengine: Engine provides you all the capabilities to build an Event sourced application in go](https://github.com/hellofresh/goengine) ⭐ 129 | 🐛 3 | 🌐 Go | 📅 2026-10-14
 * [mcveat/event-sourcing-cqrs: Example of Event Sourcing and CQRS in golang](https://github.com/mcveat/event-sourcing-cqrs) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2016-02-05
 * [GitHub - eduncan911/es: Event-sourcing and microservices infrastructure with specs framework for GoLang](https://github.com/eduncan911/es) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2015-05-26
 * <https://medium.com/@Oskarr3/implementing-cqrs-using-kafka-and-sarama-library-in-golang-da7efa3b77fe#.7gvhtgyf8>
@@ -181,8 +181,8 @@
 
 ### Python
 
-* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,487 | 🐛 102 | 🌐 C# | 📅 2026-10-13
-* [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,689 | 🐛 4 | 🌐 Python | 📅 2026-10-13
+* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,487 | 🐛 106 | 🌐 C# | 📅 2026-10-15
+* [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,690 | 🐛 4 | 🌐 Python | 📅 2026-10-14
 
 ### Ruby
 
@@ -205,7 +205,7 @@
 
 ### Java
 
-* [orbit/orbit - Concepts: Event Sourced State](https://github.com/orbit/orbit/wiki/Concepts%3A-Event-Sourced-State) ⭐ 1,732 | 🐛 4 | 🌐 Kotlin | 📅 2021-06-15
+* [orbit/orbit - Concepts: Event Sourced State](https://github.com/orbit/orbit/wiki/Concepts%3A-Event-Sourced-State) ⭐ 1,731 | 🐛 4 | 🌐 Kotlin | 📅 2021-06-15
 * [GitHub - opencredo/concursus: Concursus is a Java 8 framework for building applications that use CQRS and event sourcing patterns, with a Cassandra event log implementation.](https://github.com/opencredo/concursus) ⚠️ Archived
 * [fredgeorge/microservice\_workshop: Material (setup, sample services, etc) for Booster 2014 MicroService workshop](https://github.com/fredgeorge/microservice_workshop) ⭐ 5 | 🐛 0 | 📅 2022-09-28
 
@@ -250,4 +250,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
