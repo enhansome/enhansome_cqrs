@@ -125,13 +125,13 @@
 ### Good documentation
 
 * [prooph/event-store · Docs (DDD/CQRS/ES concepts)](https://github.com/prooph/event-store/tree/master/docs) ⭐ 546 | 🐛 1 | 🌐 PHP | 📅 2026-05-03
-* <https://github.com/ravendb/docs/blob/master/Articles/Raven.Documentation.Articles/articles/cqrs-and-event-sourcing-made-easy-with-ravendb.markdown> ⭐ 115 | 🐛 25 | 🌐 MDX | 📅 2026-10-09
+* <https://github.com/ravendb/docs/blob/master/Articles/Raven.Documentation.Articles/articles/cqrs-and-event-sourcing-made-easy-with-ravendb.markdown> ⭐ 115 | 🐛 26 | 🌐 MDX | 📅 2026-10-09
 * [GitHub - slashdotdash/cqrs-journey-pdf: CQRS Journey Guide converted to PDF for eBook reading.](https://github.com/slashdotdash/cqrs-journey-pdf) ⭐ 10 | 🐛 0 | 🌐 Ruby | 📅 2012-08-16
 * [proophessor - Exploring prooph components](http://getprooph.org/)
 
 ### Tools
 
-* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,236 | 🐛 130 | 🌐 Java | 📅 2026-10-16
+* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,238 | 🐛 129 | 🌐 Java | 📅 2026-10-19
 * [GitHub - Flipkart/aesop: A keen Observer of change](https://github.com/Flipkart/aesop) ⭐ 24 | 🐛 13 | 🌐 Java | 📅 2023-12-17
 * [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2017-04-12
 
@@ -170,7 +170,7 @@
 ### PHP
 
 * [qandidate-labs/broadway: Infrastructure and testing helpers for creating CQRS and event sourced applications](https://github.com/qandidate-labs/broadway) ⚠️ Archived
-* [thephpleague/tactician: A simple, flexible command bus http://tactician.thephpleague.com](https://github.com/thephpleague/tactician) ⭐ 864 | 🐛 3 | 🌐 PHP | 📅 2025-12-21
+* [thephpleague/tactician: A simple, flexible command bus http://tactician.thephpleague.com](https://github.com/thephpleague/tactician) ⭐ 863 | 🐛 3 | 🌐 PHP | 📅 2025-12-21
 * [prooph/service-bus: PHP Lightweight Message Bus supporting CQRS.](https://github.com/prooph/service-bus) ⭐ 441 | 🐛 1 | 🌐 PHP | 📅 2021-08-25
 * [prooph/event-sourcing: Provides basic functionality for event sourced aggregates.](https://github.com/prooph/event-sourcing) ⭐ 265 | 🐛 0 | 🌐 PHP | 📅 2021-03-22
 * [GitHub - szjani/predaddy: DDD/CQRS/EventSourcing framework with annotation driven message bus](https://github.com/szjani/predaddy) ⭐ 168 | 🐛 0 | 🌐 PHP | 📅 2018-03-19
@@ -181,7 +181,7 @@
 
 ### Python
 
-* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,488 | 🐛 99 | 🌐 C# | 📅 2026-10-16
+* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,489 | 🐛 103 | 🌐 C# | 📅 2026-10-18
 * [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,690 | 🐛 4 | 🌐 Python | 📅 2026-10-14
 
 ### Ruby
@@ -250,4 +250,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
