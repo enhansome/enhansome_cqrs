@@ -19,7 +19,7 @@
             "open_issues": 63,
             "owner": "webdevilopers",
             "repo": "php-ddd",
-            "stars": 198,
+            "stars": 197,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -219,7 +219,7 @@
             "open_issues": 1,
             "owner": "prooph",
             "repo": "event-store",
-            "stars": 546,
+            "stars": 545,
             "topics": [
               "cqrs",
               "ddd",
@@ -243,8 +243,8 @@
             "id": 961487,
             "language": "MDX",
             "license": null,
-            "last_commit": "2026-10-23T00:46:57Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-23T10:28:11Z",
+            "open_issues": 28,
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115,
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T06:15:26Z",
-            "open_issues": 138,
+            "last_commit": "2026-10-23T19:07:11Z",
+            "open_issues": 125,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13263,
+            "stars": 13265,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -812,7 +812,7 @@
                 "open_issues": 0,
                 "owner": "broadway",
                 "repo": "broadway",
-                "stars": 1507,
+                "stars": 1506,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:33:24.592Z"
@@ -833,7 +833,7 @@
                 "open_issues": 3,
                 "owner": "thephpleague",
                 "repo": "tactician",
-                "stars": 863,
+                "stars": 862,
                 "topics": [
                   "command-bus",
                   "hacktoberfest",
@@ -885,7 +885,7 @@
                 "open_issues": 0,
                 "owner": "prooph",
                 "repo": "event-sourcing",
-                "stars": 265,
+                "stars": 264,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-22T23:38:37Z",
-                "open_issues": 94,
+                "last_commit": "2026-10-23T20:17:33Z",
+                "open_issues": 92,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2487,
@@ -1140,8 +1140,8 @@
                 "id": 32690099,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-22T14:18:42Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-23T14:58:06Z",
+                "open_issues": 2,
                 "owner": "zilverline",
                 "repo": "sequent",
                 "stars": 562,
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T06:44:39.124Z",
+    "last_updated": "2026-10-24T06:40:37.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
