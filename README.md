@@ -131,7 +131,7 @@
 
 ### Tools
 
-* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,265 | 🐛 125 | 🌐 Java | 📅 2026-10-23
+* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,266 | 🐛 129 | 🌐 Java | 📅 2026-10-23
 * [GitHub - Flipkart/aesop: A keen Observer of change](https://github.com/Flipkart/aesop) ⭐ 24 | 🐛 13 | 🌐 Java | 📅 2023-12-17
 * [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2017-04-12
 
@@ -181,8 +181,8 @@
 
 ### Python
 
-* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,487 | 🐛 92 | 🌐 C# | 📅 2026-10-23
-* [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,690 | 🐛 4 | 🌐 Python | 📅 2026-10-14
+* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,488 | 🐛 96 | 🌐 C# | 📅 2026-10-25
+* [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,688 | 🐛 4 | 🌐 Python | 📅 2026-10-14
 
 ### Ruby
 
@@ -231,7 +231,7 @@
 
 ### C-Sharp
 
-* [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/) ⭐ 2,568 | 🐛 12 | 🌐 C# | 📅 2026-10-04
+* [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/) ⭐ 2,568 | 🐛 14 | 🌐 C# | 📅 2026-10-04
 * [GitHub - SneakyPeet/EasyEventSourcing: A Simple Event Sourcing Example Application](https://github.com/SneakyPeet/EasyEventSourcing) ⭐ 231 | 🐛 3 | 🌐 C# | 📅 2020-09-05
 * [GitHub - Elders/Cronus: Cronus is a lightweight framework for dispatching and receiving messages between microservices with DDD/CQRS in mind](https://github.com/Elders/Cronus) ⭐ 174 | 🐛 50 | 🌐 C# | 📅 2026-05-11
 * [GitHub - tangxuehua/Conference: A conference example to explain how to use enode to develop ddd+cqrs+event souricng application.](https://github.com/tangxuehua/Conference) ⭐ 115 | 🐛 15 | 🌐 C# | 📅 2022-12-08
@@ -250,4 +250,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
