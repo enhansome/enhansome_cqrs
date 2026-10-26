@@ -244,7 +244,7 @@
             "language": "MDX",
             "license": null,
             "last_commit": "2026-10-23T10:28:11Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115,
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T19:07:11Z",
-            "open_issues": 129,
+            "last_commit": "2026-10-25T15:33:49Z",
+            "open_issues": 128,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13266,
+            "stars": 13273,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-25T00:36:34Z",
-                "open_issues": 96,
+                "last_commit": "2026-10-25T18:55:02Z",
+                "open_issues": 101,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2488,
@@ -1079,7 +1079,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1688,
+                "stars": 1687,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:06:34.477Z",
+    "last_updated": "2026-10-26T07:13:31.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
