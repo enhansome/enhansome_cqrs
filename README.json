@@ -243,8 +243,8 @@
             "id": 961487,
             "language": "MDX",
             "license": null,
-            "last_commit": "2026-10-27T08:25:06Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-28T14:41:39Z",
+            "open_issues": 13,
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115,
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T10:00:42Z",
-            "open_issues": 131,
+            "last_commit": "2026-10-29T01:38:45Z",
+            "open_issues": 128,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13279,
+            "stars": 13283,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -833,7 +833,7 @@
                 "open_issues": 3,
                 "owner": "thephpleague",
                 "repo": "tactician",
-                "stars": 862,
+                "stars": 861,
                 "topics": [
                   "command-bus",
                   "hacktoberfest",
@@ -1036,11 +1036,11 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-25T18:55:02Z",
-                "open_issues": 108,
+                "last_commit": "2026-10-28T21:21:56Z",
+                "open_issues": 106,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2488,
+                "stars": 2487,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T07:43:34.199Z",
+    "last_updated": "2026-10-29T07:49:00.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
