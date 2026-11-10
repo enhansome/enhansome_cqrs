@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T07:40:53Z",
-            "open_issues": 149,
+            "last_commit": "2026-11-10T07:56:23Z",
+            "open_issues": 143,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13333,
+            "stars": 13335,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -665,7 +665,7 @@
                 "id": 72049359,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-06T03:01:33Z",
+                "last_commit": "2026-11-09T15:19:08Z",
                 "open_issues": 4,
                 "owner": "hellofresh",
                 "repo": "goengine",
@@ -1115,7 +1115,7 @@
                 "language": "Ruby",
                 "license": null,
                 "last_commit": "2024-08-15T15:29:18Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "krisleech",
                 "repo": "wisper",
                 "stars": 3332,
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T08:51:55.620Z",
+    "last_updated": "2026-11-10T08:58:07.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
