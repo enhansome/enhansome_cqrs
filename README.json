@@ -102,7 +102,7 @@
             "open_issues": 2,
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 439,
+            "stars": 440,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -123,7 +123,7 @@
             "open_issues": 2,
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 439,
+            "stars": 440,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -243,8 +243,8 @@
             "id": 961487,
             "language": "MDX",
             "license": null,
-            "last_commit": "2026-11-05T14:57:19Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-11T12:21:35Z",
+            "open_issues": 14,
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115,
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T07:49:17Z",
-            "open_issues": 140,
+            "last_commit": "2026-11-11T23:44:37Z",
+            "open_issues": 139,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13343,
+            "stars": 13345,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-10T14:59:05Z",
-                "open_issues": 117,
+                "last_commit": "2026-11-11T11:18:34Z",
+                "open_issues": 115,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2491,
@@ -1079,7 +1079,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1689,
+                "stars": 1691,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -1140,8 +1140,8 @@
                 "id": 32690099,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-11T04:59:34Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-11T13:51:48Z",
+                "open_issues": 9,
                 "owner": "zilverline",
                 "repo": "sequent",
                 "stars": 562,
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T08:38:47.879Z",
+    "last_updated": "2026-11-12T08:57:52.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
