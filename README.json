@@ -19,7 +19,7 @@
             "open_issues": 63,
             "owner": "webdevilopers",
             "repo": "php-ddd",
-            "stars": 197,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T23:44:37Z",
-            "open_issues": 139,
+            "last_commit": "2026-11-13T08:37:16Z",
+            "open_issues": 142,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13345,
+            "stars": 13347,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-11T11:18:34Z",
-                "open_issues": 115,
+                "last_commit": "2026-11-12T21:03:43Z",
+                "open_issues": 114,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2491,
@@ -1118,7 +1118,7 @@
                 "open_issues": 1,
                 "owner": "krisleech",
                 "repo": "wisper",
-                "stars": 3332,
+                "stars": 3331,
                 "topics": [
                   "events",
                   "publish-subscribe",
@@ -1723,7 +1723,7 @@
                     "id": 62249296,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-07-21T19:56:32Z",
+                    "last_commit": "2026-11-12T17:30:52Z",
                     "open_issues": 0,
                     "owner": "2020IP",
                     "repo": "TwentyTwenty.DomainDriven",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T08:57:52.239Z",
+    "last_updated": "2026-11-13T08:54:17.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
