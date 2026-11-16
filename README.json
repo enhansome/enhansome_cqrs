@@ -216,7 +216,7 @@
             "language": "PHP",
             "license": "BSD-3-Clause",
             "last_commit": "2026-05-03T01:38:39Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "prooph",
             "repo": "event-store",
             "stars": 546,
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T15:23:54Z",
-            "open_issues": 143,
+            "last_commit": "2026-11-15T15:41:21Z",
+            "open_issues": 142,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13351,
+            "stars": 13352,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -1036,11 +1036,11 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-15T08:35:43Z",
-                "open_issues": 117,
+                "last_commit": "2026-11-16T01:23:55Z",
+                "open_issues": 112,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2491,
+                "stars": 2492,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -1118,7 +1118,7 @@
                 "open_issues": 1,
                 "owner": "krisleech",
                 "repo": "wisper",
-                "stars": 3330,
+                "stars": 3329,
                 "topics": [
                   "events",
                   "publish-subscribe",
@@ -1572,7 +1572,7 @@
                     "open_issues": 13,
                     "owner": "eventflow",
                     "repo": "EventFlow",
-                    "stars": 2567,
+                    "stars": 2566,
                     "topics": [
                       "async-await",
                       "c-sharp",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T08:38:00.104Z",
+    "last_updated": "2026-11-16T08:46:44.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
