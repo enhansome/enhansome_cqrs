@@ -19,7 +19,7 @@
             "open_issues": 63,
             "owner": "webdevilopers",
             "repo": "php-ddd",
-            "stars": 196,
+            "stars": 197,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -73,7 +73,7 @@
             "open_issues": 3,
             "owner": "valignatev",
             "repo": "ddd-dynamic",
-            "stars": 1400,
+            "stars": 1399,
             "topics": [
               "architecture",
               "cleanarchitecture",
@@ -219,7 +219,7 @@
             "open_issues": 1,
             "owner": "prooph",
             "repo": "event-store",
-            "stars": 546,
+            "stars": 545,
             "topics": [
               "cqrs",
               "ddd",
@@ -243,8 +243,8 @@
             "id": 961487,
             "language": "MDX",
             "license": null,
-            "last_commit": "2026-11-18T17:14:32Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-20T07:50:48Z",
+            "open_issues": 10,
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115,
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T08:33:17Z",
-            "open_issues": 138,
+            "last_commit": "2026-11-20T08:02:56Z",
+            "open_issues": 137,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13363,
+            "stars": 13361,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -631,7 +631,7 @@
                 "open_issues": 46,
                 "owner": "looplab",
                 "repo": "eventhorizon",
-                "stars": 1681,
+                "stars": 1680,
                 "topics": [
                   "aws",
                   "cqrs",
@@ -858,7 +858,7 @@
                 "open_issues": 1,
                 "owner": "prooph",
                 "repo": "service-bus",
-                "stars": 442,
+                "stars": 441,
                 "topics": [
                   "cqrs",
                   "messaging",
@@ -1036,11 +1036,11 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-19T07:59:51Z",
-                "open_issues": 116,
+                "last_commit": "2026-11-19T17:34:51Z",
+                "open_issues": 122,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2492,
+                "stars": 2491,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -1118,7 +1118,7 @@
                 "open_issues": 1,
                 "owner": "krisleech",
                 "repo": "wisper",
-                "stars": 3329,
+                "stars": 3330,
                 "topics": [
                   "events",
                   "publish-subscribe",
@@ -1140,8 +1140,8 @@
                 "id": 32690099,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-19T07:33:02Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-20T08:24:45Z",
+                "open_issues": 2,
                 "owner": "zilverline",
                 "repo": "sequent",
                 "stars": 563,
@@ -1276,7 +1276,7 @@
                     "open_issues": 4,
                     "owner": "orbit",
                     "repo": "orbit",
-                    "stars": 1728,
+                    "stars": 1727,
                     "topics": [
                       "actor-model",
                       "actors",
@@ -1572,7 +1572,7 @@
                     "open_issues": 13,
                     "owner": "eventflow",
                     "repo": "EventFlow",
-                    "stars": 2565,
+                    "stars": 2564,
                     "topics": [
                       "async-await",
                       "c-sharp",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T09:39:38.123Z",
+    "last_updated": "2026-11-20T09:25:34.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",

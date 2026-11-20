@@ -7,7 +7,7 @@
 
 ### Discussions:
 
-* [Which Message / Command / Event Bus to use · Issue #12 · webdevilopers](https://github.com/webdevilopers/php-ddd/issues/12) ⭐ 196 | 🐛 63 | 🌐 PHP | 📅 2023-04-17
+* [Which Message / Command / Event Bus to use · Issue #12 · webdevilopers](https://github.com/webdevilopers/php-ddd/issues/12) ⭐ 197 | 🐛 63 | 🌐 PHP | 📅 2023-04-17
 * [DDD, Event Sourcing, and CQRS Tutorial | Hacker News](https://news.ycombinator.com/item?id=10189031)
 * [CQRS Examples and Screencasts - stackoverflow](http://stackoverflow.com/questions/5043513/cqrs-examples-and-screencasts)
 
@@ -23,7 +23,7 @@
 
 ### Other link collections
 
-* [valentjedi/ddd-dynamic: Domain Driven Design in Python, Ruby and other dynamic languages resources](https://github.com/valentjedi/ddd-dynamic) ⭐ 1,400 | 🐛 3 | 📅 2023-06-08
+* [valentjedi/ddd-dynamic: Domain Driven Design in Python, Ruby and other dynamic languages resources](https://github.com/valentjedi/ddd-dynamic) ⭐ 1,399 | 🐛 3 | 📅 2023-06-08
 * [A curated list of awesome CQRS and Event Sourcing things](https://github.com/leandrocp/awesome-cqrs-event-sourcing) ⭐ 441 | 🐛 2 | 📅 2026-10-27
 * [GitHub - leandrocp/awesome-cqrs-event-sourcing: A curated list of awesome CQRS and Event Sourcing things](https://github.com/leandrocp/awesome-cqrs-event-sourcing) ⭐ 441 | 🐛 2 | 📅 2026-10-27
 * [mlomnicki/ddd-resources: ](https://github.com/mlomnicki/ddd-resources) ⭐ 29 | 🐛 0 | 📅 2016-08-04
@@ -124,14 +124,14 @@
 
 ### Good documentation
 
-* [prooph/event-store · Docs (DDD/CQRS/ES concepts)](https://github.com/prooph/event-store/tree/master/docs) ⭐ 546 | 🐛 1 | 🌐 PHP | 📅 2026-05-03
-* <https://github.com/ravendb/docs/blob/master/Articles/Raven.Documentation.Articles/articles/cqrs-and-event-sourcing-made-easy-with-ravendb.markdown> ⭐ 115 | 🐛 13 | 🌐 MDX | 📅 2026-11-18
+* [prooph/event-store · Docs (DDD/CQRS/ES concepts)](https://github.com/prooph/event-store/tree/master/docs) ⭐ 545 | 🐛 1 | 🌐 PHP | 📅 2026-05-03
+* <https://github.com/ravendb/docs/blob/master/Articles/Raven.Documentation.Articles/articles/cqrs-and-event-sourcing-made-easy-with-ravendb.markdown> ⭐ 115 | 🐛 10 | 🌐 MDX | 📅 2026-11-20
 * [GitHub - slashdotdash/cqrs-journey-pdf: CQRS Journey Guide converted to PDF for eBook reading.](https://github.com/slashdotdash/cqrs-journey-pdf) ⭐ 10 | 🐛 0 | 🌐 Ruby | 📅 2012-08-16
 * [proophessor - Exploring prooph components](http://getprooph.org/)
 
 ### Tools
 
-* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,363 | 🐛 138 | 🌐 Java | 📅 2026-11-19
+* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,361 | 🐛 137 | 🌐 Java | 📅 2026-11-20
 * [GitHub - Flipkart/aesop: A keen Observer of change](https://github.com/Flipkart/aesop) ⭐ 24 | 🐛 13 | 🌐 Java | 📅 2023-12-17
 * [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2017-04-12
 
@@ -155,7 +155,7 @@
 
 ### Golang
 
-* [GitHub - looplab/eventhorizon: CQRS/ES toolkit for Go](https://github.com/looplab/eventhorizon) ⭐ 1,681 | 🐛 46 | 🌐 Go | 📅 2026-09-02
+* [GitHub - looplab/eventhorizon: CQRS/ES toolkit for Go](https://github.com/looplab/eventhorizon) ⭐ 1,680 | 🐛 46 | 🌐 Go | 📅 2026-09-02
 * [hellofresh/goengine: Engine provides you all the capabilities to build an Event sourced application in go](https://github.com/hellofresh/goengine) ⭐ 129 | 🐛 3 | 🌐 Go | 📅 2026-11-16
 * [mcveat/event-sourcing-cqrs: Example of Event Sourcing and CQRS in golang](https://github.com/mcveat/event-sourcing-cqrs) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2016-02-05
 * [GitHub - eduncan911/es: Event-sourcing and microservices infrastructure with specs framework for GoLang](https://github.com/eduncan911/es) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2015-05-26
@@ -171,7 +171,7 @@
 
 * [qandidate-labs/broadway: Infrastructure and testing helpers for creating CQRS and event sourced applications](https://github.com/qandidate-labs/broadway) ⚠️ Archived
 * [thephpleague/tactician: A simple, flexible command bus http://tactician.thephpleague.com](https://github.com/thephpleague/tactician) ⭐ 861 | 🐛 3 | 🌐 PHP | 📅 2025-12-21
-* [prooph/service-bus: PHP Lightweight Message Bus supporting CQRS.](https://github.com/prooph/service-bus) ⭐ 442 | 🐛 1 | 🌐 PHP | 📅 2021-08-25
+* [prooph/service-bus: PHP Lightweight Message Bus supporting CQRS.](https://github.com/prooph/service-bus) ⭐ 441 | 🐛 1 | 🌐 PHP | 📅 2021-08-25
 * [prooph/event-sourcing: Provides basic functionality for event sourced aggregates.](https://github.com/prooph/event-sourcing) ⭐ 264 | 🐛 0 | 🌐 PHP | 📅 2021-03-22
 * [GitHub - szjani/predaddy: DDD/CQRS/EventSourcing framework with annotation driven message bus](https://github.com/szjani/predaddy) ⭐ 168 | 🐛 0 | 🌐 PHP | 📅 2018-03-19
 * [hellofresh/engine: Engine provides you all the capabilities to build an Event sourced application.](https://github.com/hellofresh/engine) ⚠️ Archived
@@ -181,13 +181,13 @@
 
 ### Python
 
-* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,492 | 🐛 116 | 🌐 C# | 📅 2026-11-19
+* [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,491 | 🐛 122 | 🌐 C# | 📅 2026-11-19
 * [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,691 | 🐛 4 | 🌐 Python | 📅 2026-11-18
 
 ### Ruby
 
-* [krisleech/wisper: A micro library providing Ruby objects with Publish-Subscribe capabilities](https://github.com/krisleech/wisper) ⭐ 3,329 | 🐛 1 | 🌐 Ruby | 📅 2024-08-15
-* [zilverline/sequent: CQRS & event sourcing framework for Ruby](https://github.com/zilverline/sequent) ⭐ 563 | 🐛 4 | 🌐 Ruby | 📅 2026-11-19
+* [krisleech/wisper: A micro library providing Ruby objects with Publish-Subscribe capabilities](https://github.com/krisleech/wisper) ⭐ 3,330 | 🐛 1 | 🌐 Ruby | 📅 2024-08-15
+* [zilverline/sequent: CQRS & event sourcing framework for Ruby](https://github.com/zilverline/sequent) ⭐ 563 | 🐛 2 | 🌐 Ruby | 📅 2026-11-20
 * [GitHub - cavalle/banksimplistic: Exploring CQRS, Event Sourcing and DDD with Ruby](https://github.com/cavalle/banksimplistic) ⭐ 320 | 🐛 1 | 🌐 Ruby | 📅 2022-06-17
 * [alexaitken/synapse: A versatile CQRS and event sourcing framework for Ruby](https://github.com/alexaitken/synapse) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2014-02-03
 * [Papipo/event\_sourcing: GitHub - Papipo/event\_sourcing: Actor based Event Sourcing library for ruby](https://github.com/Papipo/event_sourcing) ⚠️ Archived
@@ -205,7 +205,7 @@
 
 ### Java
 
-* [orbit/orbit - Concepts: Event Sourced State](https://github.com/orbit/orbit/wiki/Concepts%3A-Event-Sourced-State) ⭐ 1,728 | 🐛 4 | 🌐 Kotlin | 📅 2021-06-15
+* [orbit/orbit - Concepts: Event Sourced State](https://github.com/orbit/orbit/wiki/Concepts%3A-Event-Sourced-State) ⭐ 1,727 | 🐛 4 | 🌐 Kotlin | 📅 2021-06-15
 * [GitHub - opencredo/concursus: Concursus is a Java 8 framework for building applications that use CQRS and event sourcing patterns, with a Cassandra event log implementation.](https://github.com/opencredo/concursus) ⚠️ Archived
 * [fredgeorge/microservice\_workshop: Material (setup, sample services, etc) for Booster 2014 MicroService workshop](https://github.com/fredgeorge/microservice_workshop) ⭐ 5 | 🐛 0 | 📅 2022-09-28
 
@@ -231,7 +231,7 @@
 
 ### C-Sharp
 
-* [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/) ⭐ 2,565 | 🐛 13 | 🌐 C# | 📅 2026-10-04
+* [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/) ⭐ 2,564 | 🐛 13 | 🌐 C# | 📅 2026-10-04
 * [GitHub - SneakyPeet/EasyEventSourcing: A Simple Event Sourcing Example Application](https://github.com/SneakyPeet/EasyEventSourcing) ⭐ 231 | 🐛 3 | 🌐 C# | 📅 2020-09-05
 * [GitHub - Elders/Cronus: Cronus is a lightweight framework for dispatching and receiving messages between microservices with DDD/CQRS in mind](https://github.com/Elders/Cronus) ⭐ 174 | 🐛 50 | 🌐 C# | 📅 2026-05-11
 * [GitHub - tangxuehua/Conference: A conference example to explain how to use enode to develop ddd+cqrs+event souricng application.](https://github.com/tangxuehua/Conference) ⭐ 115 | 🐛 15 | 🌐 C# | 📅 2022-12-08
@@ -250,4 +250,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
