@@ -144,7 +144,7 @@
             "open_issues": 0,
             "owner": "mlomnicki",
             "repo": "ddd-resources",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -244,7 +244,7 @@
             "language": "MDX",
             "license": null,
             "last_commit": "2026-11-20T07:50:48Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115,
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T08:02:56Z",
-            "open_issues": 137,
+            "last_commit": "2026-11-20T18:45:33Z",
+            "open_issues": 145,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13361,
+            "stars": 13366,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -1036,8 +1036,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-19T17:34:51Z",
-                "open_issues": 122,
+                "last_commit": "2026-11-20T21:09:44Z",
+                "open_issues": 121,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2491,
@@ -1140,8 +1140,8 @@
                 "id": 32690099,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-20T08:24:45Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-20T15:50:50Z",
+                "open_issues": 4,
                 "owner": "zilverline",
                 "repo": "sequent",
                 "stars": 563,
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T09:25:34.993Z",
+    "last_updated": "2026-11-21T08:58:16.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
