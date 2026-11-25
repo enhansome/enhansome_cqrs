@@ -243,8 +243,8 @@
             "id": 961487,
             "language": "MDX",
             "license": null,
-            "last_commit": "2026-11-23T14:18:06Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-25T07:39:27Z",
+            "open_issues": 11,
             "owner": "ravendb",
             "repo": "docs",
             "stars": 115,
@@ -292,10 +292,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-24T06:51:11Z",
-            "open_issues": 148,
+            "open_issues": 151,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13375,
+            "stars": 13377,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -1037,10 +1037,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-23T08:50:20Z",
-                "open_issues": 111,
+                "open_issues": 114,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2492,
+                "stars": 2493,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -1118,7 +1118,7 @@
                 "open_issues": 1,
                 "owner": "krisleech",
                 "repo": "wisper",
-                "stars": 3329,
+                "stars": 3328,
                 "topics": [
                   "events",
                   "publish-subscribe",
@@ -1276,7 +1276,7 @@
                     "open_issues": 4,
                     "owner": "orbit",
                     "repo": "orbit",
-                    "stars": 1727,
+                    "stars": 1728,
                     "topics": [
                       "actor-model",
                       "actors",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T11:48:53.724Z",
+    "last_updated": "2026-11-25T10:41:33.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
