@@ -131,7 +131,7 @@
 
 ### Tools
 
-* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,379 | 🐛 151 | 🌐 Java | 📅 2026-11-25
+* [GitHub - debezium/debezium: Change data capture for a variety of databases.](https://github.com/debezium/debezium) ⭐ 13,384 | 🐛 149 | 🌐 Java | 📅 2026-11-26
 * [GitHub - Flipkart/aesop: A keen Observer of change](https://github.com/Flipkart/aesop) ⭐ 24 | 🐛 13 | 🌐 Java | 📅 2023-12-17
 * [Github - robertreppel/hist: A simple event store for event sourcing in Go.](https://github.com/robertreppel/hist) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2017-04-12
 
@@ -170,7 +170,7 @@
 ### PHP
 
 * [qandidate-labs/broadway: Infrastructure and testing helpers for creating CQRS and event sourced applications](https://github.com/qandidate-labs/broadway) ⚠️ Archived
-* [thephpleague/tactician: A simple, flexible command bus http://tactician.thephpleague.com](https://github.com/thephpleague/tactician) ⭐ 861 | 🐛 3 | 🌐 PHP | 📅 2025-12-21
+* [thephpleague/tactician: A simple, flexible command bus http://tactician.thephpleague.com](https://github.com/thephpleague/tactician) ⭐ 860 | 🐛 3 | 🌐 PHP | 📅 2025-12-21
 * [prooph/service-bus: PHP Lightweight Message Bus supporting CQRS.](https://github.com/prooph/service-bus) ⭐ 441 | 🐛 1 | 🌐 PHP | 📅 2021-08-25
 * [prooph/event-sourcing: Provides basic functionality for event sourced aggregates.](https://github.com/prooph/event-sourcing) ⭐ 264 | 🐛 0 | 🌐 PHP | 📅 2021-03-22
 * [GitHub - szjani/predaddy: DDD/CQRS/EventSourcing framework with annotation driven message bus](https://github.com/szjani/predaddy) ⭐ 168 | 🐛 0 | 🌐 PHP | 📅 2018-03-19
@@ -182,12 +182,12 @@
 ### Python
 
 * [GitHub - iancooper/Paramore: Command Dispatcher, Processor, and Distributed Task Queue](https://github.com/iancooper/Paramore) ⭐ 2,494 | 🐛 112 | 🌐 C# | 📅 2026-11-25
-* [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,691 | 🐛 4 | 🌐 Python | 📅 2026-11-23
+* [GitHub - johnbywater/eventsourcing: Event sourcing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,692 | 🐛 4 | 🌐 Python | 📅 2026-11-23
 
 ### Ruby
 
 * [krisleech/wisper: A micro library providing Ruby objects with Publish-Subscribe capabilities](https://github.com/krisleech/wisper) ⭐ 3,328 | 🐛 1 | 🌐 Ruby | 📅 2024-08-15
-* [zilverline/sequent: CQRS & event sourcing framework for Ruby](https://github.com/zilverline/sequent) ⭐ 563 | 🐛 4 | 🌐 Ruby | 📅 2026-11-26
+* [zilverline/sequent: CQRS & event sourcing framework for Ruby](https://github.com/zilverline/sequent) ⭐ 563 | 🐛 3 | 🌐 Ruby | 📅 2026-11-26
 * [GitHub - cavalle/banksimplistic: Exploring CQRS, Event Sourcing and DDD with Ruby](https://github.com/cavalle/banksimplistic) ⭐ 320 | 🐛 1 | 🌐 Ruby | 📅 2022-06-17
 * [alexaitken/synapse: A versatile CQRS and event sourcing framework for Ruby](https://github.com/alexaitken/synapse) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2014-02-03
 * [Papipo/event\_sourcing: GitHub - Papipo/event\_sourcing: Actor based Event Sourcing library for ruby](https://github.com/Papipo/event_sourcing) ⚠️ Archived
@@ -231,7 +231,7 @@
 
 ### C-Sharp
 
-* [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/) ⭐ 2,564 | 🐛 13 | 🌐 C# | 📅 2026-10-04
+* [GitHub - eventflow/EventFlow: Async/await first CQRS+ES and DDD framework for .NET](https://github.com/eventflow/EventFlow/) ⭐ 2,565 | 🐛 13 | 🌐 C# | 📅 2026-10-04
 * [GitHub - SneakyPeet/EasyEventSourcing: A Simple Event Sourcing Example Application](https://github.com/SneakyPeet/EasyEventSourcing) ⭐ 231 | 🐛 3 | 🌐 C# | 📅 2020-09-05
 * [GitHub - Elders/Cronus: Cronus is a lightweight framework for dispatching and receiving messages between microservices with DDD/CQRS in mind](https://github.com/Elders/Cronus) ⭐ 174 | 🐛 50 | 🌐 C# | 📅 2026-05-11
 * [GitHub - tangxuehua/Conference: A conference example to explain how to use enode to develop ddd+cqrs+event souricng application.](https://github.com/tangxuehua/Conference) ⭐ 115 | 🐛 15 | 🌐 C# | 📅 2022-12-08
@@ -250,4 +250,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

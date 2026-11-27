@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T23:15:40Z",
-            "open_issues": 151,
+            "last_commit": "2026-11-26T13:28:37Z",
+            "open_issues": 149,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13379,
+            "stars": 13384,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -833,7 +833,7 @@
                 "open_issues": 3,
                 "owner": "thephpleague",
                 "repo": "tactician",
-                "stars": 861,
+                "stars": 860,
                 "topics": [
                   "command-bus",
                   "hacktoberfest",
@@ -1079,7 +1079,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1691,
+                "stars": 1692,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -1140,8 +1140,8 @@
                 "id": 32690099,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-26T10:07:30Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-26T12:18:30Z",
+                "open_issues": 3,
                 "owner": "zilverline",
                 "repo": "sequent",
                 "stars": 563,
@@ -1572,7 +1572,7 @@
                     "open_issues": 13,
                     "owner": "eventflow",
                     "repo": "EventFlow",
-                    "stars": 2564,
+                    "stars": 2565,
                     "topics": [
                       "async-await",
                       "c-sharp",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T10:12:15.660Z",
+    "last_updated": "2026-11-27T10:18:08.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
