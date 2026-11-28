@@ -102,7 +102,7 @@
             "open_issues": 2,
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 441,
+            "stars": 442,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -123,7 +123,7 @@
             "open_issues": 2,
             "owner": "leandrocp",
             "repo": "awesome-cqrs-event-sourcing",
-            "stars": 441,
+            "stars": 442,
             "topics": []
           },
           "first_seen": "2026-08-28T13:33:24.592Z"
@@ -291,11 +291,11 @@
             "id": 50205233,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T13:28:37Z",
+            "last_commit": "2026-11-27T11:20:08Z",
             "open_issues": 149,
             "owner": "debezium",
             "repo": "debezium",
-            "stars": 13384,
+            "stars": 13386,
             "topics": [
               "apache-kafka",
               "cdc",
@@ -1037,7 +1037,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-25T20:08:13Z",
-                "open_issues": 112,
+                "open_issues": 113,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2494,
@@ -1079,7 +1079,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1692,
+                "stars": 1691,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -1140,7 +1140,7 @@
                 "id": 32690099,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-26T12:18:30Z",
+                "last_commit": "2026-11-27T10:57:46Z",
                 "open_issues": 3,
                 "owner": "zilverline",
                 "repo": "sequent",
@@ -1442,7 +1442,7 @@
                     "open_issues": 4,
                     "owner": "capitalone",
                     "repo": "cqrs-manager-for-distributed-reactive-services",
-                    "stars": 302,
+                    "stars": 301,
                     "topics": [
                       "cqrs",
                       "event-sourcing",
@@ -1727,7 +1727,7 @@
                     "open_issues": 0,
                     "owner": "2020IP",
                     "repo": "TwentyTwenty.DomainDriven",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": [
                       "cqrs",
                       "ddd",
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T10:18:08.364Z",
+    "last_updated": "2026-11-28T09:37:08.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "some links about CQRS / Event Sourcing",
